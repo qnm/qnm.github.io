@@ -1,0 +1,8 @@
+---
+title: Internet Censors Must Be Accountable For The Things They Break
+date: '2008-12-10'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<a href="http://www.eff.org/deeplinks/2008/12/internet-censors-must-be-accountable-things-they-b">http://www.eff.org/deeplinks/2008/12/internet-censors-must-be-accountable-thi...</a> <p>Yesterday&#8217;s <a href="http://www.theregister.co.uk/2008/12/07/brit_isps_censor_wikipedia/">scandal</a> over the UK Internet Watch Foundation&#8217;s attempt to censor a purportedly pedophiliac Wikipedia entry raises some important questions about unintended technical consequences of&#8230;</p>

@@ -1,0 +1,8 @@
+---
+title: Dumbing Down the Cloud
+date: '2008-11-25'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<a href="http://www.randsinrepose.com/archives/2008/11/25/dumbing_down_the_cloud.html">http://www.randsinrepose.com/archives/2008/11/25/dumbing_down_the_cloud.html</a> <p><p>Cloud computing is yet another name for services that have existed for a really long time. Here&#8217;s the 2008 IEEE Internet Computing <a href="http://en.wikipedia.org/wiki/Cloud_computing" title="Cloud computing - Wikipedia, the free encyclopedia">quote</a> regarding Cloud Computing:</p> <p>&#8220;Cloud Computing is a paradigm&#8230;</p></p>

@@ -1,0 +1,15 @@
+---
+title: Climate Change Deniers vs The Consensus
+date: '2009-12-08'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<div class="posterous_bookmarklet_entry">
+      <div class='p_embed p_image_embed'>
+<img alt="Media_https3amazonawscominfobeautifulclimateskeptics960gif_nxdeuikdfscyvhu" height="2013" src="http://posterous.com/getfile/files.posterous.com/quannum/JEnGbFznAeCtkqhjlsijqtqbrAbphqoannwbctuCfCraoHCCliDadmsjFHhm/media_https3amazonawscominfobeautifulclimateskeptics960gif_nxdEuIkdFsCyvhu.gif.scaled500.gif" width="500" />
+</div>
+
+
+<div class="posterous_quote_citation">via <a href="http://www.informationisbeautiful.net/visualizations/climate-change-deniers-vs-the-consensus/">informationisbeautiful.net</a></div>
+    <p>A wonderful visualisation of the rather confusing and conflicting arguments surrounding climate change.</p></div>

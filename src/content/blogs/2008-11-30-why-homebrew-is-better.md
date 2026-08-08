@@ -1,0 +1,12 @@
+---
+title: Why Homebrew is Better
+date: '2008-11-30'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<a href="http://feeds.boingboing.net/~r/boingboing/iBag/~3/469617093/why-homebrew-is-bett.html">http://feeds.boingboing.net/~r/boingboing/iBag/~3/469617093/why-homebrew-is-b...</a> <p><blockquote class="posterous_medium_quote">
+Every professional performer always does the same thing at exactly the same moment in every show they do. What I like are things that are different every time. That&#8217;s why I like amateurs.
+<p>
+&#8212; Andy&#8230;</p>
+</blockquote></p>

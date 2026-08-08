@@ -1,0 +1,8 @@
+---
+title: 'Gumption: Do YouJustGetMe? Do I Even Get Myself?'
+date: '2008-06-30'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<a href="http://gumption.typepad.com/blog/2008/04/do-youjustgetme.html">http://gumption.typepad.com/blog/2008/04/do-youjustgetme.html</a> <p>David Evans presented a paper at the International Conference on Weblogs and Social Media (ICWSM 2008) this week on how well people are able to understand (or &#8220;get&#8221;) others based on others&#8217; online&#8230;</p>

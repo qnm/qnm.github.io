@@ -1,0 +1,8 @@
+---
+title: 'Rondam Ramblings: Failure must always be an option'
+date: '2008-09-22'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<a href="http://rondam.blogspot.com/2008/09/failure-must-always-be-option.html">http://rondam.blogspot.com/2008/09/failure-must-always-be-option.html</a> <p>An essay I wrote six years ago about some of my experiences working for NASA has gotten some recent attention on Reddit and Hacker News. I thought I&#8217;d write a little update, particularly since some&#8230;</p>

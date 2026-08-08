@@ -1,0 +1,8 @@
+---
+title: All look same
+date: '2009-03-14'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<a href="http://moot.mooh.org/archives/2009/03/all-look-same.html">http://moot.mooh.org/archives/2009/03/all-look-same.html</a> <p>As I work from home full-time nowadays one of the habits I&#8217;ve gotten in to is to go for a run or surf every day. I figure I should do at least this much exercise since the walk to the bus/train stop&#8230;</p>

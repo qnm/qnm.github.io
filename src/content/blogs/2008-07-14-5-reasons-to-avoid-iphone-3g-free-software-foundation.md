@@ -1,0 +1,8 @@
+---
+title: 5 reasons to avoid iPhone 3G - Free Software Foundation
+date: '2008-07-14'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<a href="http://www.fsf.org/blogs/community/5-reasons-to-avoid-iphone-3g/blogentry_view">http://www.fsf.org/blogs/community/5-reasons-to-avoid-iphone-3g/blogentry_view</a> 

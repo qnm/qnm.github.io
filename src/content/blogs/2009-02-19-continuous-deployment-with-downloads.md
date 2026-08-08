@@ -1,0 +1,8 @@
+---
+title: Continuous deployment with downloads
+date: '2009-02-19'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<a href="http://startuplessonslearned.blogspot.com/2009/02/continuous-deployment-with-downloads.html">http://startuplessonslearned.blogspot.com/2009/02/continuous-deployment-with-...</a> <p>One of my goals in writing posts about topics like <a href="http://startuplessonslearned.blogspot.com/2009/02/continuous-deployment-and-continuous.html">continuous deployment</a> is the hope that people will take those ideas and apply them to new situations - and then share what they learn with the&#8230;</p>

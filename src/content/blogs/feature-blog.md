@@ -1,11 +1,11 @@
 ---
-title: "Using Gatsby with Github Pages and Actions"
-date: "May 1st, 2019"
-read: "1 min read" 
-topic: "feature"
+title: Using Gatsby with Github Pages and Actions
+date: '2019-04-30'
+topic: feature
+read: 1 min read
 image: ../../images/tokyo.jpg
-
 ---
+
 Gatsby is a super-lean and customisable static site generator and, when combined with Github Pages and Github Actions, can provide a really easy-to-use workflow for content creation.
 
 Here's how I did it:

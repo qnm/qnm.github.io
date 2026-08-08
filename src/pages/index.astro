@@ -4,14 +4,28 @@ import Layout from "../layouts/Layout.astro"
 import FeaturedBlog from "../components/FeaturedBlog.astro"
 import BlogCards from "../components/BlogCards.astro"
 
-const posts = (await getCollection("blog")).sort((a, b) => {
-  const da = a.data.date ? new Date(a.data.date).getTime() : 0
-  const db = b.data.date ? new Date(b.data.date).getTime() : 0
-  return db - da
-})
+const RECENT_LIMIT = 12
+
+const all = (await getCollection("blog")).sort(
+  (a, b) => b.data.date.getTime() - a.data.date.getTime()
+)
+
+const featured = all.filter((p) => p.data.topic === "feature")
+const nonFeatured = all.filter((p) => p.data.topic !== "feature")
+const recent = nonFeatured.slice(0, RECENT_LIMIT)
+const hasMore = nonFeatured.length > RECENT_LIMIT
 ---
 
-<Layout title="Amelie">
-  <FeaturedBlog posts={posts} />
-  <BlogCards posts={posts} />
+<Layout title="Home">
+  <FeaturedBlog posts={featured} />
+  <BlogCards posts={recent} />
+  {
+    hasMore && (
+      <p style="text-align: center; margin: 2rem 0 3rem;">
+        <a href="/archive/" style="text-decoration: none;">
+          See the full archive ({nonFeatured.length} posts) →
+        </a>
+      </p>
+    )
+  }
 </Layout>

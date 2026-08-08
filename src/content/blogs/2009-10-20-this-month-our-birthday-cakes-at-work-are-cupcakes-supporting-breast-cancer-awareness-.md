@@ -1,0 +1,15 @@
+---
+title: >-
+  This month, our birthday cakes at work are cupcakes, supporting breast cancer
+  awareness.
+date: '2009-10-20'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<p><div class='p_embed p_image_embed'>
+<img alt="Gravity" height="648" src="http://posterous.com/getfile/files.posterous.com/quannum/zFuwjkxltAIdtttmmAoldvzsmvevcwxoBplAqluoHEjFofsBGcuvhxddJHoJ/Gravity.jpg.scaled500.jpg" width="486" />
+</div>
+</p>
+
+<div class="posterous_quote_citation">via <a href="http://mobileways.de/gravity">Gravity</a></div>

@@ -1,0 +1,13 @@
+---
+title: Birds Nest
+date: '2009-11-08'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<p><div class='p_embed p_image_embed'>
+<a href="http://posterous.com/getfile/files.posterous.com/quannum/ebyFrGzeoEFhCzmosEHrHGxbfFFqucwdFBIErkDEdGIesqskaaxDccuGEHgh/Gravity.jpg.scaled1000.jpg"><img alt="Gravity" height="375" src="http://posterous.com/getfile/files.posterous.com/quannum/ebyFrGzeoEFhCzmosEHrHGxbfFFqucwdFBIErkDEdGIesqskaaxDccuGEHgh/Gravity.jpg.scaled500.jpg" width="500" /></a>
+</div>
+</p>
+
+<div class="posterous_quote_citation">via <a href="http://mobileways.de/gravity">Gravity</a></div>

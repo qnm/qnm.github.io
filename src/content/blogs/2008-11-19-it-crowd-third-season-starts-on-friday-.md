@@ -1,0 +1,14 @@
+---
+title: IT Crowd third season starts on Friday!
+date: '2008-11-19'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<a href="http://feeds.boingboing.net/~r/boingboing/iBag/~3/458092311/it-crowd-third-seaso.html">http://feeds.boingboing.net/~r/boingboing/iBag/~3/458092311/it-crowd-third-se...</a> <p><p>Hurrah! This Friday marks the return of The IT Crowd, my favorite sitcom/nerd media EVAR, back for a triumphant third season! </p>
+<blockquote class="posterous_short_quote">
+<div class='p_embed p_image_embed'>
+<img alt="Media_httpcraphoundcomimagescdlkfkfdsjhsmainjpg_czeezhpyulksiol" height="196" src="http://posterous.com/getfile/files.posterous.com/import-jghx/adImbbarFohlgpJDJnqjsovyoivrGsclmtyIFqiJDpghrfGxdaeCqlwfGAtn/media_httpcraphoundcomimagescdlkfkfdsjhsmainjpg_czEezhpyulksiol.jpg.scaled500.jpg" width="420" />
+</div>
+<br />
+Although Reynholm jumped out of a high window in the last series,&#8230;</blockquote></p>

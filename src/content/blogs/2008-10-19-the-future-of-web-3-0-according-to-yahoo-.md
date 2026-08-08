@@ -1,0 +1,11 @@
+---
+title: The Future of Web 3.0 According to Yahoo!
+date: '2008-10-19'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<a href="http://feedproxy.google.com/~r/readwriteweb/~3/pdsb1sIo24g/yahoo_the_future_of_web_30.php">http://feedproxy.google.com/~r/readwriteweb/~3/pdsb1sIo24g/yahoo_the_future_o...</a> <p><div class='p_embed p_image_embed'>
+<img alt="Media_httpwwwreadwritewebcomimagesyahoologosep08png_sqnilegumdgegre" height="49" src="http://posterous.com/getfile/files.posterous.com/import-jghx/HkcdxHlCwbvIGIxIDpaJHhdvcDvdBkpnDiiauyodsCGxGGndAzAzHhoFltgH/media_httpwwwreadwritewebcomimagesyahoologosep08png_sqnilEGumdgegrE.png.scaled500.png" width="150" />
+</div>
+At the Web 3.0 Conference and Expo in Santa Clara today, Dave Beckett (principal software architect at Yahoo!) and Tom Hughes-Croucher (technical evangelist, Yahoo! Developer Network), answered&#8230;</p>

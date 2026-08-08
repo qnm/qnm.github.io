@@ -1,0 +1,11 @@
+---
+title: Fantastic WWF posters, from the Business District of Beijing.
+date: '2009-07-02'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<p><div class='p_embed p_image_embed'>
+<img alt="Mmoooefdepeewxp9ohcvecd5o1_500" height="680" src="http://posterous.com/getfile/files.posterous.com/import-jghx/jCFityCrJjmDEsqEGoJHumBlvkpofHesjEsIuEbEBjykgIifuDcfuJqCxsip/MmOOoeFDepeewxp9oHcVecD5o1_500.jpg.scaled500.jpg" width="500" />
+</div>
+</p>

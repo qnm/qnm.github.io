@@ -1,0 +1,15 @@
+---
+title: Guinea Pigs. That is all.
+date: '2009-07-14'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<p>
+<object height="336" width="400">
+<param name="movie" value="http://www.youtube.com/v/DS5h3cX8sHI&amp;rel=0&amp;egm=0&amp;showinfo=0&amp;fs=1" />
+<param name="wmode" value="transparent" />
+<param name="allowFullScreen" value="true" /><embed src="http://www.youtube.com/v/DS5h3cX8sHI&amp;rel=0&amp;egm=0&amp;showinfo=0&amp;fs=1" wmode="transparent" type="application/x-shockwave-flash" height="336" width="400"></embed>
+</object>
+</p>
+<p>&nbsp;</p>

@@ -1,0 +1,10 @@
+---
+title: Thanks, domain.com.au. That's really helpful.
+date: '2009-11-26'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<div class='p_embed p_image_embed'>
+<a href="http://posterous.com/getfile/files.posterous.com/quannum/xFAQwCeX5TO44ccCF3JcXNEhRrq53RSTYGJlHMPmNUwi9ZsHq9n3NAxh5luS/Screenshot.png.scaled.1000.jpg"><img alt="Screenshot" height="232" src="http://posterous.com/getfile/files.posterous.com/quannum/dxH8hYWC0MN9HykAzLmXpo1bLd3BHlHNEhaQlGH3MrRr9aHsOBs7RTm6fn4u/Screenshot.png.scaled.500.jpg" width="500" /></a>
+</div>

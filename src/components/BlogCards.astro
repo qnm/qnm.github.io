@@ -8,6 +8,13 @@ interface Props {
 
 const { posts } = Astro.props
 const nonFeatured = posts.filter((p) => p.data.topic !== "feature")
+
+const fmt = (d: Date) =>
+  d.toLocaleDateString("en-GB", {
+    year: "numeric",
+    month: "short",
+    day: "numeric",
+  })
 ---
 
 <div class="blog-container">
@@ -28,8 +35,8 @@ const nonFeatured = posts.filter((p) => p.data.topic !== "feature")
           )}
           <div class="blog-description">
             <p class="blog-date-topic">
-              {post.data.date} &nbsp;&nbsp; ———— &nbsp;&nbsp;
-              {post.data.topic}
+              {fmt(post.data.date)} &nbsp;&nbsp; ———— &nbsp;&nbsp;
+              {post.data.topic ?? "blog"}
             </p>
             <h3 class="blog-title">{post.data.title}</h3>
             <p class="blog-excerpt">{post.data.subtitle ?? ""}</p>

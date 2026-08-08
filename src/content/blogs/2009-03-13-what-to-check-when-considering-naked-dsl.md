@@ -1,0 +1,12 @@
+---
+title: What To Check When Considering Naked DSL
+date: '2009-03-13'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<a href="http://feeds.lifehacker.com.au/~r/LifehackerAustralia/~3/lTYr6wkYy5c/what_to_check_when_considering_naked_dsl.html">http://feeds.lifehacker.com.au/~r/LifehackerAustralia/~3/lTYr6wkYy5c/what_to_...</a> <p><span style="display: inline;"><div class='p_embed p_image_embed'>
+<img alt="" src="http://www.lifehacker.com.au/NakedUnlock.jpg" />
+</div>
+</span><br />
+Naked DSL &#8212; a broadband connection via a phone line but without paying a line rental fee for the associated voice service &#8212; is an increasingly popular strategy for saving money on&#8230;</p>

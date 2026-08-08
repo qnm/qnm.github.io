@@ -1,0 +1,12 @@
+---
+title: Yahoo Continues To Embrace This Openness Thing. Ebay Widget On Yahoo Home Page
+date: '2008-11-21'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<a href="http://feedproxy.google.com/~r/Techcrunch/~3/ufVHiwBe6Bw/">http://feedproxy.google.com/~r/Techcrunch/~3/ufVHiwBe6Bw/</a> <p><p><div class='p_embed p_image_embed'>
+<a href="http://posterous.com/getfile/files.posterous.com/import-jghx/kJnvxAydfAqlchczrloEDbJtbskJbnwHyBflBcBoAnphxfpeFiIBjxHuhsvx/media_httpwwwtechcrunchcomwpcontentuploads200811yahooebayjpg_HgAqsBJhpsAasJx.jpg.scaled1000.jpg"><img alt="Media_httpwwwtechcrunchcomwpcontentuploads200811yahooebayjpg_hgaqsbjhpsaasjx" height="394" src="http://posterous.com/getfile/files.posterous.com/import-jghx/kJnvxAydfAqlchczrloEDbJtbskJbnwHyBflBcBoAnphxfpeFiIBjxHuhsvx/media_httpwwwtechcrunchcomwpcontentuploads200811yahooebayjpg_HgAqsBJhpsAasJx.jpg.scaled500.jpg" width="500" /></a>
+</div>
+</p>
+<p>Yahoo appears to be quite serious about <a href="http://www.techcrunch.com/2008/10/28/yahoo-opens-up-big-time/">openness</a> and promoting third party content and applications on their massively visited home page. Today they’re announcing the addition of an eBay&#8230;</p></p>

@@ -1,0 +1,13 @@
+---
+title: >-
+  230 Tonnes of Oil &amp; 620 Tonnes of Fertilizer Spill From Damaged Ship in
+  Australia
+date: '2009-03-16'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<a href="http://feedproxy.google.com/~r/treehuggersite/~3/viTG_OzKdzQ/230-tonnes-oil-620-tonnes-fertilizer-spill-from-damaged-ship-australia.php">http://feedproxy.google.com/~r/treehuggersite/~3/viTG_OzKdzQ/230-tonnes-oil-6...</a> <p><div class='p_embed p_image_embed'>
+<img alt="Media_httpwwwtreehuggercom20090314moretonislandjpg_pjnvfjqjgxwcezw" height="351" src="http://posterous.com/getfile/files.posterous.com/import-jghx/EpIFgfyBAEjwfBusjgcoBzelrcxFFxvtsBAJswwvDavgqBefwGlnkmxAwDtF/media_httpwwwtreehuggercom20090314moretonislandjpg_pjnvfJqJGxwcEzw.jpg.scaled500.jpg" width="468" />
+</div>
+<em>Moreton Island was particular badly hit (although obviously not in this photo&#8230;). Photo: <a href="http://www.flickr.com/photos/mrcs1/3179400497/">[mapu]</a> via flickr</em> Though no oil spill can be considered a good thing, what was initially reported as&#8230;</p>

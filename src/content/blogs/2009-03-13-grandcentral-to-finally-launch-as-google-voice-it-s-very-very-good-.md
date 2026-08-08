@@ -1,0 +1,11 @@
+---
+title: "GrandCentral To (Finally) Launch As Google Voice. Itâ\x80\x99s Very, Very Good."
+date: '2009-03-13'
+topic: archive
+image: ../../images/tokyo.jpg
+---
+
+<a href="http://feedproxy.google.com/~r/Techcrunch/~3/C9S4-D0-QF4/">http://feedproxy.google.com/~r/Techcrunch/~3/C9S4-D0-QF4/</a> <p><div class='p_embed p_image_embed'>
+<img alt="Media_httpwwwtechcrunchcomwpcontentuploads200903googlevoice2jpg_cbkbjvfwfzsocmg" height="99" src="http://posterous.com/getfile/files.posterous.com/import-jghx/vzdjrernDxzgBrklfqeGDrxeAIpCDpHEGAjqmrvnAIEohtfitycByysswIrg/media_httpwwwtechcrunchcomwpcontentuploads200903googlevoice2jpg_cbkBJvfwFzsocmg.jpg.scaled500.jpg" width="250" />
+</div>
+<a href="http://www.grandcentral.com">GrandCentral</a>, a phone management service that first <a href="http://www.techcrunch.com/2006/09/25/grandcentral-could-make-phones-lovable-again/">launched</a> in 2006 and was <a href="http://www.techcrunch.com/2007/06/24/google-to-acquire-grand-central-for-50-million/">acquired</a> by Google for $50+ million in 2007, hasn’t been in the news much lately. Other than a few good natured&#8230;</p>
