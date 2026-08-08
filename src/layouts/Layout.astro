@@ -7,9 +7,10 @@ import Footer from "../components/Footer.astro"
 interface Props {
   title: string
   description?: string
+  canonical?: string
 }
 
-const { title, description = "A rough archive of things I've found interesting since 2005." } = Astro.props
+const { title, description = "A rough archive of things I've found interesting since 2005.", canonical } = Astro.props
 const siteTitle = "rob sharp"
 ---
 
@@ -26,6 +27,7 @@ const siteTitle = "rob sharp"
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:creator" content="@qnm" />
+    {canonical && <link rel="canonical" href={canonical} />}
     <title>{title === siteTitle ? siteTitle : `${title} — ${siteTitle}`}</title>
 
     <script is:inline>

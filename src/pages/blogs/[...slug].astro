@@ -19,7 +19,11 @@ const isLink = post.data.topic === "link" && !!post.data.link
 const permalink = `/blogs/${post.id.replace(/\.(md|mdx)$/, "")}/`
 ---
 
-<Layout title={post.data.title} description={post.data.subtitle}>
+<Layout
+  title={post.data.title}
+  description={post.data.subtitle}
+  canonical={post.data.canonical}
+>
   <article class="post-content">
     {
       isLink ? (
@@ -49,6 +53,16 @@ const permalink = `/blogs/${post.id.replace(/\.(md|mdx)$/, "")}/`
             {" · "}
             <a href={post.data.link} rel="external noopener">
               {displayHost(post.data.link!)}
+            </a>
+          </>
+        )
+      }
+      {
+        !isLink && post.data.canonical && (
+          <>
+            {" · originally on "}
+            <a href={post.data.canonical} rel="canonical external noopener">
+              {displayHost(post.data.canonical)}
             </a>
           </>
         )

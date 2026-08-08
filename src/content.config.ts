@@ -14,6 +14,7 @@ const blog = defineCollection({
     topic: z.string().optional(),
     categories: z.string().optional(),
     link: z.string().url().optional(),
+    canonical: z.string().url().optional(),
     draft: z.boolean().optional(),
   }),
 })
