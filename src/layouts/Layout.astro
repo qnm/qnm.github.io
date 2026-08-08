@@ -1,0 +1,49 @@
+---
+import Nav from "../components/Nav.astro"
+import Footer from "../components/Footer.astro"
+import "../styles/global.css"
+
+interface Props {
+  title: string
+  description?: string
+}
+
+const { title, description = "The havers of Rob Sharp" } = Astro.props
+const siteTitle = "Rob's Blog"
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:creator" content="@qnm" />
+    <title>{title} | {siteTitle}</title>
+  </head>
+  <body>
+    <div class="layout-container">
+      <Nav />
+      <div class="page-wrapper">
+        <main>
+          <slot />
+        </main>
+        <Footer />
+      </div>
+    </div>
+  </body>
+</html>
+
+<style>
+  .page-wrapper {
+    margin: 0 auto;
+    max-width: 1300px;
+    padding-top: 0;
+  }
+</style>

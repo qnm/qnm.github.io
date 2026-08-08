@@ -1,0 +1,42 @@
+---
+import { Image } from "astro:assets"
+import type { CollectionEntry } from "astro:content"
+
+interface Props {
+  posts: CollectionEntry<"blog">[]
+}
+
+const { posts } = Astro.props
+const nonFeatured = posts.filter((p) => p.data.topic !== "feature")
+---
+
+<div class="blog-container">
+  {
+    nonFeatured.map((post) => (
+      <a
+        href={`/blogs/${post.id.replace(/\.(md|mdx)$/, "")}/`}
+        style="text-decoration: none; color: inherit;"
+      >
+        <div class="blog-card">
+          {post.data.image && (
+            <Image
+              class="blog-thumbnail"
+              src={post.data.image}
+              alt={post.data.title}
+              width={630}
+            />
+          )}
+          <div class="blog-description">
+            <p class="blog-date-topic">
+              {post.data.date} &nbsp;&nbsp; ———— &nbsp;&nbsp;
+              {post.data.topic}
+            </p>
+            <h3 class="blog-title">{post.data.title}</h3>
+            <p class="blog-excerpt">{post.data.subtitle ?? ""}</p>
+            <p class="read-more"> ——— Read More</p>
+          </div>
+        </div>
+      </a>
+    ))
+  }
+</div>

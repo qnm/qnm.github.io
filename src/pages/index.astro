@@ -1,0 +1,17 @@
+---
+import { getCollection } from "astro:content"
+import Layout from "../layouts/Layout.astro"
+import FeaturedBlog from "../components/FeaturedBlog.astro"
+import BlogCards from "../components/BlogCards.astro"
+
+const posts = (await getCollection("blog")).sort((a, b) => {
+  const da = a.data.date ? new Date(a.data.date).getTime() : 0
+  const db = b.data.date ? new Date(b.data.date).getTime() : 0
+  return db - da
+})
+---
+
+<Layout title="Amelie">
+  <FeaturedBlog posts={posts} />
+  <BlogCards posts={posts} />
+</Layout>

@@ -1,0 +1,20 @@
+---
+const pathname = Astro.url.pathname
+const isPost = pathname.includes("/blogs/")
+const isAbout = pathname.startsWith("/about")
+const isHome = !isPost && !isAbout
+---
+
+<div class={isPost ? "post-nav-container" : "nav-container"} id="nav-bar">
+  <a href="/" class="nav-brand">Amelie</a>
+  <ul class="nav-item-container">
+    <li class={isHome ? "nav-item active-link" : "nav-item"} id="nav-home">
+      <a href="/">Home</a>
+      <div class="underline"></div>
+    </li>
+    <li class={isAbout ? "nav-item active-link" : "nav-item"}>
+      <a href="/about/">About</a>
+      <div class="underline"></div>
+    </li>
+  </ul>
+</div>
