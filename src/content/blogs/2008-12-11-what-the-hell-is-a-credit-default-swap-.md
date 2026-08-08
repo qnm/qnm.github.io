@@ -1,8 +1,10 @@
 ---
 title: What the hell is a Credit Default Swap?
 date: '2008-12-11'
-topic: archive
+topic: link
+link: >-
+  http://feeds.boingboing.net/~r/boingboing/iBag/~3/481557393/what-the-hell-is-a-c.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feeds.boingboing.net/~r/boingboing/iBag/~3/481557393/what-the-hell-is-a-c.html">http://feeds.boingboing.net/~r/boingboing/iBag/~3/481557393/what-the-hell-is-...</a> <p>This American Life&#8217;s hour-long show on &#8220;credit-default swaps&#8221; is the best explanation I&#8217;ve heard so far for what the hell these things are and how they ended up causing so much havoc. I keep asking&#8230;</p>
+This American Life’s hour-long show on “credit-default swaps” is the best explanation I’ve heard so far for what the hell these things are and how they ended up causing so much havoc. I keep asking…

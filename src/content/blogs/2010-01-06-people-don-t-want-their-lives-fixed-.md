@@ -1,15 +1,9 @@
 ---
 title: People don't want their lives fixed.
 date: '2010-01-06'
-topic: archive
+topic: link
+link: http://icanread.tumblr.com/post/320149867
 image: ../../images/tokyo.jpg
 ---
 
-<div class="posterous_bookmarklet_entry">
-      <div class='p_embed p_image_embed'>
-<img alt="Media_http15mediatumb_wmuyh" height="400" src="http://posterous.com/getfile/files.posterous.com/quannum/pmqEmelolxGzEbjEvjzvcDmcaryfwqDEFeblspGjqqvgxpzcizDhyktdabBy/media_http15mediatumb_wmuyh.jpg.scaled500.jpg" width="400" />
-</div>
-
-
-<div class="posterous_quote_citation">via <a href="http://icanread.tumblr.com/post/320149867">icanread.tumblr.com</a></div>
-    <p></p></div>
+via [icanread.tumblr.com](http://icanread.tumblr.com/post/320149867)

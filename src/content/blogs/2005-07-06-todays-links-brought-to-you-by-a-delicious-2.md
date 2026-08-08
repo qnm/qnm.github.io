@@ -5,5 +5,4 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://script.aculo.us/">script.aculo.us - web 2.0 javascript</a>
-<br />
+[script.aculo.us - web 2.0 javascript](http://script.aculo.us/)

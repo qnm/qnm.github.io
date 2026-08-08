@@ -1,6 +1,7 @@
 ---
 import { Image } from "astro:assets"
 import type { CollectionEntry } from "astro:content"
+import { displayHost } from "../lib/link"
 
 interface Props {
   posts: CollectionEntry<"blog">[]
@@ -19,31 +20,52 @@ const fmt = (d: Date) =>
 
 <div class="blog-container">
   {
-    nonFeatured.map((post) => (
-      <a
-        href={`/blogs/${post.id.replace(/\.(md|mdx)$/, "")}/`}
-        style="text-decoration: none; color: inherit;"
-      >
-        <div class="blog-card">
-          {post.data.image && (
-            <Image
-              class="blog-thumbnail"
-              src={post.data.image}
-              alt={post.data.title}
-              width={630}
-            />
-          )}
-          <div class="blog-description">
-            <p class="blog-date-topic">
-              {fmt(post.data.date)} &nbsp;&nbsp; ———— &nbsp;&nbsp;
-              {post.data.topic ?? "blog"}
-            </p>
-            <h3 class="blog-title">{post.data.title}</h3>
-            <p class="blog-excerpt">{post.data.subtitle ?? ""}</p>
-            <p class="read-more"> ——— Read More</p>
+    nonFeatured.map((post) => {
+      const isLink = post.data.topic === "link" && !!post.data.link
+      const permalink = `/blogs/${post.id.replace(/\.(md|mdx)$/, "")}/`
+      const label = isLink
+        ? displayHost(post.data.link!)
+        : (post.data.topic ?? "blog")
+      return (
+        <a
+          href={permalink}
+          style="text-decoration: none; color: inherit;"
+          class:list={["blog-card-link", { "is-link-post": isLink }]}
+        >
+          <div class="blog-card">
+            {post.data.image && !isLink && (
+              <Image
+                class="blog-thumbnail"
+                src={post.data.image}
+                alt={post.data.title}
+                width={630}
+              />
+            )}
+            <div class="blog-description">
+              <p class="blog-date-topic">
+                {fmt(post.data.date)} &nbsp;&nbsp; ———— &nbsp;&nbsp;
+                {label}
+              </p>
+              <h3 class="blog-title">
+                {isLink && <span class="link-glyph" aria-hidden="true">→ </span>}
+                {post.data.title}
+              </h3>
+              <p class="blog-excerpt">{post.data.subtitle ?? ""}</p>
+              {!isLink && <p class="read-more"> ——— Read More</p>}
+            </div>
           </div>
-        </div>
-      </a>
-    ))
+        </a>
+      )
+    })
   }
 </div>
+
+<style>
+  .link-glyph {
+    color: #a5a4a4;
+  }
+  .is-link-post .blog-card {
+    border-left: 3px solid #eee;
+    padding-left: 1rem;
+  }
+</style>

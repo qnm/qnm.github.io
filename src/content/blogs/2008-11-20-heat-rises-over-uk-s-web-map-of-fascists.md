@@ -1,8 +1,10 @@
 ---
 title: Heat rises over UK's web map of fascists
 date: '2008-11-20'
-topic: archive
+topic: link
+link: >-
+  http://www.smh.com.au/news/technology/web/heat-rises-over-uks-web-map-of-bnp-members/2008/11/20/1226770602625.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://www.smh.com.au/news/technology/web/heat-rises-over-uks-web-map-of-bnp-members/2008/11/20/1226770602625.html">http://www.smh.com.au/news/technology/web/heat-rises-over-uks-web-map-of-bnp-...</a> <p>Right-wing extremists across Britain are bracing for violent repercussions after the British National Party&#8217;s entire membership list was leaked on the internet. Ironically, the BNP is relying on&#8230;</p>
+Right-wing extremists across Britain are bracing for violent repercussions after the British National Party’s entire membership list was leaked on the internet. Ironically, the BNP is relying on…

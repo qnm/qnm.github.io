@@ -5,8 +5,10 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-<p>- Back up with Time Machine</p>
-<p>- Rsync really important stuffs offsite</p>
-<p>- git push origin master</p>
+\- Back up with Time Machine
 
-<p>/me hates losing data.</p>
+\- Rsync really important stuffs offsite
+
+\- git push origin master
+
+/me hates losing data.

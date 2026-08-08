@@ -1,8 +1,9 @@
 ---
 title: Broadcast Guide - Official Website of the Australian Football League
 date: '2008-04-26'
-topic: archive
+topic: link
+link: http://afl.com.au/Fixture/BroadcastGuide/tabid/9451/default.aspx
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://afl.com.au/Fixture/BroadcastGuide/tabid/9451/default.aspx">http://afl.com.au/Fixture/BroadcastGuide/tabid/9451/default.aspx</a> <p>AFL Broadcast Guide - times and channels for all the games.</p>
+AFL Broadcast Guide - times and channels for all the games.

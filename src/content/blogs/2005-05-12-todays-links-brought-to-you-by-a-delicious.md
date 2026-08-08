@@ -5,7 +5,5 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://jpspan.sourceforge.net/wiki/doku.php">JSPAN - RPC for PHP using Javascript</a>
-<br />
-<a href="http://www.qwad.com.au/code/doku.php?id=qwad_framework">AJAX framework for rich content webapps</a>
-<br />
+[JSPAN - RPC for PHP using Javascript](http://jpspan.sourceforge.net/wiki/doku.php)
+[AJAX framework for rich content webapps](http://www.qwad.com.au/code/doku.php?id=qwad_framework)

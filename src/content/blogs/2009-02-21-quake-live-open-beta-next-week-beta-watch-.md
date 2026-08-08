@@ -1,11 +1,12 @@
 ---
 title: Quake Live Open Beta Next Week [Beta Watch]
 date: '2009-02-21'
-topic: archive
+topic: link
+link: >-
+  http://feeds.gawker.com/~r/kotaku/full/~3/EXRQCYPPTsk/quake-live-open-beta-next-week
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feeds.gawker.com/~r/kotaku/full/~3/EXRQCYPPTsk/quake-live-open-beta-next-week">http://feeds.gawker.com/~r/kotaku/full/~3/EXRQCYPPTsk/quake-live-open-beta-ne...</a> <p><p><div class='p_embed p_image_embed'>
-<a href="http://posterous.com/getfile/files.posterous.com/import-jghx/ACesEocefcbvpxocCIpbgtHfkDCgqefqkvkbhwDgjehekxnjgJjpnDsJstwF/media_httpcachegawkercomassetsimageskotaku200902quakelivejpg_efDpirBwBIIyjgB.jpg.scaled1000.jpg"><img alt="Media_httpcachegawkercomassetsimageskotaku200902quakelivejpg_efdpirbwbiiyjgb" height="375" src="http://posterous.com/getfile/files.posterous.com/import-jghx/ACesEocefcbvpxocCIpbgtHfkDCgqefqkvkbhwDgjehekxnjgJjpnDsJstwF/media_httpcachegawkercomassetsimageskotaku200902quakelivejpg_efDpirBwBIIyjgB.jpg.scaled500.jpg" width="500" /></a>
-</div>
-<a href="http://kotaku.com/tag/id-software/" title="Click here to read more posts tagged ID SOFTWARE">ID Software</a>&#8217;s browser-based competitive version of the classic first-person shooter Quake is nearly ready for the public, with the <a href="http://kotaku.com/tag/quake-live/" title="Click here to read more posts tagged QUAKE LIVE">Quake Live</a> open beta kicking off next week.</p> <p>Statistics&#8230;</p></p>
+[ID Software](http://kotaku.com/tag/id-software/ "Click here to read more posts tagged ID SOFTWARE")’s browser-based competitive version of the classic first-person shooter Quake is nearly ready for the public, with the [Quake Live](http://kotaku.com/tag/quake-live/ "Click here to read more posts tagged QUAKE LIVE") open beta kicking off next week.
+
+Statistics…

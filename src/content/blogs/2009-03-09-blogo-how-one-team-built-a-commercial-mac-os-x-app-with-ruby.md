@@ -1,11 +1,10 @@
 ---
 title: Blogo - How One Team Built a Commercial Mac OS X App with Ruby
 date: '2009-03-09'
-topic: archive
+topic: link
+link: >-
+  http://feedproxy.google.com/~r/RubyInside/~3/v6PzmxSk1vg/blogo-how-one-team-built-a-commercial-mac-os-x-app-with-ruby-1612.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feedproxy.google.com/~r/RubyInside/~3/v6PzmxSk1vg/blogo-how-one-team-built-a-commercial-mac-os-x-app-with-ruby-1612.html">http://feedproxy.google.com/~r/RubyInside/~3/v6PzmxSk1vg/blogo-how-one-team-b...</a> <p><div class='p_embed p_image_embed'>
-<img alt="Media_httpwwwrubyinsidecomwpcontentuploads200903blogoguysjpg_iasxtqalcfjkdgi" height="112" src="http://posterous.com/getfile/files.posterous.com/import-jghx/pBbAhFxwIyAJCbnGEdgJmqrpwrCyhAujjEkrdGhsvkssJoxFjwDpyxFajavG/media_httpwwwrubyinsidecomwpcontentuploads200903blogoguysjpg_iasxtqAlcFjkDGI.jpg.scaled500.jpg" width="174" />
-</div>
-<a href="http://www.drinkbrainjuice.com/blogo">Blogo</a> is a Mac / OS X blogging client developed by Brainjuice - the business name of Benjamin Jackson and Ivan Neto, Rio based Ruby developers and Web designers - and born out of their&#8230;</p>
+[Blogo](http://www.drinkbrainjuice.com/blogo) is a Mac / OS X blogging client developed by Brainjuice - the business name of Benjamin Jackson and Ivan Neto, Rio based Ruby developers and Web designers - and born out of their…

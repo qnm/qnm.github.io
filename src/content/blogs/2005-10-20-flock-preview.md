@@ -5,4 +5,12 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-<p>It looks like the blogging section of <a href="http://flock.com">Flock</a> is now working, as I'm sending this from inside Flock! I downloaded the Developers Preview this morning, and so far everything has been really nice. </p><p>The <a href="http://del.icio.us">delicious </a>integration works pretty well, especially with regards to the search box, which shows options from your favourites and from your history as options. Sweet.<br /></p><p>One of the really nice things about the blog editor is the <a href="http://www.flickr.com">flickr</a> toolbar, which allows you to drag a <a href="http://www.flickr.com">flickr</a> photo (currently only public ones, though) into a blog entry. No more fiddling with links to add your photos.<br /></p><p>Theres a few little niggles, but since this is a preview of a preview, I didn't expect everything to be perfect, but from what I see it's going to be an ace product!<br /></p><!-- technorati tags begin --><p style="font-size:10px;text-align:right;">Technorati Tags: <a href="http://technorati.com/tag/FlockBuzz" rel="tag">FlockBuzz</a>, <a href="http://technorati.com/tag/flock" rel="tag">flock</a>, <a href="http://technorati.com/tag/delicious" rel="tag">delicious</a>, <a href="http://technorati.com/tag/flickr" rel="tag">flickr</a></p><!-- technorati tags end -->
+It looks like the blogging section of [Flock](http://flock.com) is now working, as I'm sending this from inside Flock! I downloaded the Developers Preview this morning, and so far everything has been really nice.
+
+The [delicious](http://del.icio.us) integration works pretty well, especially with regards to the search box, which shows options from your favourites and from your history as options. Sweet.
+
+One of the really nice things about the blog editor is the [flickr](http://www.flickr.com) toolbar, which allows you to drag a [flickr](http://www.flickr.com) photo (currently only public ones, though) into a blog entry. No more fiddling with links to add your photos.
+
+Theres a few little niggles, but since this is a preview of a preview, I didn't expect everything to be perfect, but from what I see it's going to be an ace product!
+
+Technorati Tags: [FlockBuzz](http://technorati.com/tag/FlockBuzz), [flock](http://technorati.com/tag/flock), [delicious](http://technorati.com/tag/delicious), [flickr](http://technorati.com/tag/flickr)

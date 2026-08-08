@@ -1,8 +1,11 @@
 ---
 title: Learning Vim The Pragmatic Way
 date: '2009-03-14'
-topic: archive
+topic: link
+link: >-
+  http://www.reddit.com/r/programming/comments/84a6c/learning_vim_the_pragmatic_way/
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://www.reddit.com/r/programming/comments/84a6c/learning_vim_the_pragmatic_way/">http://www.reddit.com/r/programming/comments/84a6c/learning_vim_the_pragmatic...</a> <p>submitted by <a href="http://www.reddit.com/user/eric_monti">eric_monti</a> <br /><a href="http://jrmiii.com/2009/03/06/learning-vim-the-pragmatic-way.html">[link]</a> <a href="http://www.reddit.com/r/programming/comments/84a6c/learning_vim_the_pragmatic_way/">[52 comments]</a></p>
+submitted by [eric\_monti](http://www.reddit.com/user/eric_monti)
+[\[link\]](http://jrmiii.com/2009/03/06/learning-vim-the-pragmatic-way.html) [\[52 comments\]](http://www.reddit.com/r/programming/comments/84a6c/learning_vim_the_pragmatic_way/)

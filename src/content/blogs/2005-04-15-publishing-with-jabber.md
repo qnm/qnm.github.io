@@ -5,4 +5,4 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-Here&apos;s my weekend project: publish to pyblosxom using a jabber bot. <a href="http://dealmeida.net/en/Programming/Python/articleing_with_jabber_explained.html">Here&apos;s how.</a>
+Here's my weekend project: publish to pyblosxom using a jabber bot. [Here's how.](http://dealmeida.net/en/Programming/Python/articleing_with_jabber_explained.html)

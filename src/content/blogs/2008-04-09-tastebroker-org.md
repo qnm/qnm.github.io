@@ -1,8 +1,9 @@
 ---
 title: tastebroker.org
 date: '2008-04-09'
-topic: archive
+topic: link
+link: http://www.tastebroker.org/
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://www.tastebroker.org/">http://www.tastebroker.org/</a> <p>Tastebroker builds APML from multiple sources, such as last.fm and pandora.</p>
+Tastebroker builds APML from multiple sources, such as last.fm and pandora.

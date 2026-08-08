@@ -1,6 +1,7 @@
 ---
 import { getCollection } from "astro:content"
 import Layout from "../layouts/Layout.astro"
+import { displayHost } from "../lib/link"
 
 const posts = (await getCollection("blog")).sort(
   (a, b) => b.data.date.getTime() - a.data.date.getTime()
@@ -30,14 +31,28 @@ const fmt = (d: Date) =>
         <section class="archive-year">
           <h2>{year}</h2>
           <ul>
-            {byYear.get(year)!.map((p) => (
-              <li>
-                <span class="archive-date">{fmt(p.data.date)}</span>
-                <a href={`/blogs/${p.id.replace(/\.(md|mdx)$/, "")}/`}>
-                  {p.data.title}
-                </a>
-              </li>
-            ))}
+            {byYear.get(year)!.map((p) => {
+              const permalink = `/blogs/${p.id.replace(/\.(md|mdx)$/, "")}/`
+              const isLink = p.data.topic === "link" && !!p.data.link
+              return (
+                <li class:list={["archive-row", { "is-link": isLink }]}>
+                  <span class="archive-date">{fmt(p.data.date)}</span>
+                  <span class="archive-entry">
+                    {isLink && <span class="link-glyph" aria-hidden="true">→</span>}
+                    <a href={permalink}>{p.data.title}</a>
+                    {isLink && (
+                      <a
+                        class="archive-host"
+                        href={p.data.link}
+                        rel="external noopener"
+                      >
+                        {displayHost(p.data.link!)}
+                      </a>
+                    )}
+                  </span>
+                </li>
+              )
+            })}
           </ul>
         </section>
       ))
@@ -73,12 +88,33 @@ const fmt = (d: Date) =>
     padding: 0;
     margin: 0;
   }
-  .archive-year li {
+  .archive-row {
     display: grid;
     grid-template-columns: 5rem 1fr;
     gap: 1rem;
     padding: 0.25rem 0;
     line-height: 1.5;
+  }
+  .archive-entry {
+    display: inline;
+  }
+  .link-glyph {
+    color: #a5a4a4;
+    margin-right: 0.35rem;
+  }
+  .archive-host {
+    color: #a5a4a4 !important;
+    font-size: 0.85em;
+    margin-left: 0.5rem;
+  }
+  .archive-host::before {
+    content: "(";
+  }
+  .archive-host::after {
+    content: ")";
+  }
+  .archive-host:hover {
+    color: #333 !important;
   }
   .archive-date {
     color: #a5a4a4;

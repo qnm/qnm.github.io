@@ -1,8 +1,9 @@
 ---
 title: Astrometry.net
 date: '2008-11-07'
-topic: archive
+topic: link
+link: http://astrometry.net/summary.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://astrometry.net/summary.html">http://astrometry.net/summary.html</a> <p>We are building an âastrometry engineâ to create correct, standards-compliant astrometric meta data for every useful astronomical image ever taken, past and future, in any state of archival&#8230;</p>
+We are building an âastrometry engineâ to create correct, standards-compliant astrometric meta data for every useful astronomical image ever taken, past and future, in any state of archival…

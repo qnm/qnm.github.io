@@ -1,15 +1,11 @@
 ---
 title: 'Javascript: The Good Parts vs Javascript: The Rest'
 date: '2009-09-27'
-topic: archive
+topic: link
+link: http://imgur.com/RzRcw.jpg
 image: ../../images/tokyo.jpg
 ---
 
-<div class="posterous_bookmarklet_entry">
-      <div class='p_embed p_image_embed'>
-<a href="http://posterous.com/getfile/files.posterous.com/quannum/HzgEdijhaxumbFpgAGtxdsicItDfflHFlpldkHFAoiruqqybmibHnbmlDcrb/media_httpimgurcomRzRcwjpg_EafGHnEskGjmIxx.jpg.scaled1000.jpg"><img alt="Media_httpimgurcomrzrcwjpg_eafghneskgjmixx" height="375" src="http://posterous.com/getfile/files.posterous.com/quannum/HzgEdijhaxumbFpgAGtxdsicItDfflHFlpldkHFAoiruqqybmibHnbmlDcrb/media_httpimgurcomRzRcwjpg_EafGHnEskGjmIxx.jpg.scaled500.jpg" width="500" /></a>
-</div>
+via [imgur.com](http://imgur.com/RzRcw.jpg)
 
-
-<div class="posterous_quote_citation">via <a href="http://imgur.com/RzRcw.jpg">imgur.com</a></div>
-    <p>Ain't that the truth.</p></div>
+Ain't that the truth.

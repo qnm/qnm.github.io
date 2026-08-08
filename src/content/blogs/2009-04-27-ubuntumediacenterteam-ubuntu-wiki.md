@@ -1,8 +1,9 @@
 ---
 title: UbuntuMediaCenterTeam - Ubuntu Wiki
 date: '2009-04-27'
-topic: archive
+topic: link
+link: https://wiki.ubuntu.com/UbuntuMediaCenterTeam
 image: ../../images/tokyo.jpg
 ---
 
-<a href="https://wiki.ubuntu.com/UbuntuMediaCenterTeam">https://wiki.ubuntu.com/UbuntuMediaCenterTeam</a> 
+

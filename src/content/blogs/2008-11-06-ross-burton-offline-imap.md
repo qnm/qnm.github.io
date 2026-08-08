@@ -1,8 +1,9 @@
 ---
 title: Ross Burton - Offline IMAP
 date: '2008-11-06'
-topic: archive
+topic: link
+link: http://www.burtonini.com/blog/computers/offlineimap-2008-11-04-20-00
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://www.burtonini.com/blog/computers/offlineimap-2008-11-04-20-00">http://www.burtonini.com/blog/computers/offlineimap-2008-11-04-20-00</a> <p>Over the weekend I finally got fed up with Evolution struggling to connect to work&#8217;s &#8220;IMAP&#8221; server (Exchange 2007), and switched to using OfflineIMAP to sync the mail to a local Maildir. This as&#8230;</p>
+Over the weekend I finally got fed up with Evolution struggling to connect to work’s “IMAP” server (Exchange 2007), and switched to using OfflineIMAP to sync the mail to a local Maildir. This as…

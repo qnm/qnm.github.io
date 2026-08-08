@@ -5,4 +5,4 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-...is purple, according to <a href="http://www.adampolselli.com/2005/">Adam Polselli.</a> Looks like I&apos;m ahead of the game then :-)
+...is purple, according to [Adam Polselli.](http://www.adampolselli.com/2005/) Looks like I'm ahead of the game then :-)

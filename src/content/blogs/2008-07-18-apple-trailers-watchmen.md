@@ -1,8 +1,9 @@
 ---
 title: Apple - Trailers - Watchmen
 date: '2008-07-18'
-topic: archive
+topic: link
+link: http://www.apple.com/trailers/wb/watchmen/
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://www.apple.com/trailers/wb/watchmen/">http://www.apple.com/trailers/wb/watchmen/</a> 
+

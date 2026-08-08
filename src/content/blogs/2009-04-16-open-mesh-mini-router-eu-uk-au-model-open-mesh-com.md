@@ -1,8 +1,10 @@
 ---
 title: Open-Mesh Mini-Router (EU/UK/AU MODEL) - Open-Mesh.com
 date: '2009-04-16'
-topic: archive
+topic: link
+link: >-
+  https://www.open-mesh.com/store/products.php?product=Open%252dMesh-Mini%252dRouter-%28EU%7B47%7DUK%7B47%7DAU-MODEL%29
 image: ../../images/tokyo.jpg
 ---
 
-<a href="https://www.open-mesh.com/store/products.php?product=Open%252dMesh-Mini%252dRouter-%28EU%7B47%7DUK%7B47%7DAU-MODEL%29">https://www.open-mesh.com/store/products.php?product=Open%252dMesh-Mini%252dR...</a> 
+

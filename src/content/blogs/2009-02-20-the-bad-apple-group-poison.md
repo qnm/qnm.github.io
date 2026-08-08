@@ -1,9 +1,10 @@
 ---
 title: 'The Bad Apple: Group Poison'
 date: '2009-02-20'
-topic: archive
+topic: link
+link: http://www.codinghorror.com/blog/archives/001227.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://www.codinghorror.com/blog/archives/001227.html">http://www.codinghorror.com/blog/archives/001227.html</a> <p><blockquote class="posterous_medium_quote">Shared by Rob Sharp <br />
-Groups of four college students were organized into teams and given a task to complete some basic management decisions in 45 minutes. To motivate the teams, they&#8217;re told that&#8230;</blockquote></p>
+> Shared by Rob Sharp
+> Groups of four college students were organized into teams and given a task to complete some basic management decisions in 45 minutes. To motivate the teams, they’re told that…

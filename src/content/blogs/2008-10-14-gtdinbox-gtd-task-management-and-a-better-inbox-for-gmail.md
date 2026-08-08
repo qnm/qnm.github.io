@@ -1,8 +1,9 @@
 ---
 title: GTDInbox - GTD, Task Management and a Better Inbox for Gmail
 date: '2008-10-14'
-topic: archive
+topic: link
+link: http://www.gtdinbox.com/
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://www.gtdinbox.com/">http://www.gtdinbox.com/</a> <p>GTDInbox is an addon for Firefox that transforms Gmail into a powerhouse of productivity and manageability. GTDInbox gives you a better inbox.</p>
+GTDInbox is an addon for Firefox that transforms Gmail into a powerhouse of productivity and manageability. GTDInbox gives you a better inbox.

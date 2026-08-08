@@ -5,13 +5,8 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://plasticbugs.com/index.php?p=267">ITunes streaming to your mobile phone</a>
-<br />
-<a href="http://saxon.sourceforge.net/saxon6.5.2/using-xsl.html">Using Saxon on the command line - cheat sheet</a>
-<br />
-<a href="http://sean.treadway.info/demo/upload">My, isn&apos;t ruby-on-rails coming along nicely... check out the upload progress bar!</a>
-<br />
-<a href="http://www.alvit.de/web-dev/">Essential bookmarks for web-designers and webdevelopers</a>
-<br />
-<a href="http://www.trackertrail.com/survival/fire/cokeandchocolatebar/">Fire from a Can of Coke and a Chocolate Bar - yes, really!</a>
-<br />
+[ITunes streaming to your mobile phone](http://plasticbugs.com/index.php?p=267)
+[Using Saxon on the command line - cheat sheet](http://saxon.sourceforge.net/saxon6.5.2/using-xsl.html)
+[My, isn't ruby-on-rails coming along nicely... check out the upload progress bar!](http://sean.treadway.info/demo/upload)
+[Essential bookmarks for web-designers and webdevelopers](http://www.alvit.de/web-dev/)
+[Fire from a Can of Coke and a Chocolate Bar - yes, really!](http://www.trackertrail.com/survival/fire/cokeandchocolatebar/)

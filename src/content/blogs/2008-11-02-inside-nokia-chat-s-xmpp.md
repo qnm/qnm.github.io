@@ -1,8 +1,9 @@
 ---
 title: Inside Nokia Chat's XMPP
 date: '2008-11-02'
-topic: archive
+topic: link
+link: http://ruk.ca/article/4910
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://ruk.ca/article/4910">http://ruk.ca/article/4910</a> <p>Iâve been experimenting with the beta of Nokia Chat for the past few days; itâs an interesting application, with lots of promise, and is pleasantly open, in that itâs built on the XMPP&#8230;</p>
+Iâve been experimenting with the beta of Nokia Chat for the past few days; itâs an interesting application, with lots of promise, and is pleasantly open, in that itâs built on the XMPP…

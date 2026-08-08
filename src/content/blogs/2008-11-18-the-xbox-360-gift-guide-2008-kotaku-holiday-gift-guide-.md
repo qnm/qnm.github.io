@@ -1,11 +1,9 @@
 ---
 title: The Xbox 360 Gift Guide [2008 Kotaku Holiday Gift Guide]
 date: '2008-11-18'
-topic: archive
+topic: link
+link: http://feeds.gawker.com/~r/kotaku/full/~3/Oy0d1AXGDN0/the-xbox-360-gift-guide
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feeds.gawker.com/~r/kotaku/full/~3/Oy0d1AXGDN0/the-xbox-360-gift-guide">http://feeds.gawker.com/~r/kotaku/full/~3/Oy0d1AXGDN0/the-xbox-360-gift-guide</a> <p><div class='p_embed p_image_embed'>
-<img alt="Media_httpcachegawkercomassetsimageskotaku200811img01332copyjpg_ebbqkaejasczdxj" height="329" src="http://posterous.com/getfile/files.posterous.com/import-jghx/nGdpcIgoxuExpoBvhmsDnkrDIqIxwnxCGeunFmqyufiiiDJtlpmwxFHbzFdl/media_httpcachegawkercomassetsimageskotaku200811IMG01332copyjpg_eBBqkAEJAsczdxj.jpg.scaled500.jpg" width="494" />
-</div>
- Admit it, the guilty pleasure of a gift guide is looking for things that you want to get, rather than get advice on what to give. Still, there are some kind considerate souls out there with&#8230;</p>
+Admit it, the guilty pleasure of a gift guide is looking for things that you want to get, rather than get advice on what to give. Still, there are some kind considerate souls out there with…

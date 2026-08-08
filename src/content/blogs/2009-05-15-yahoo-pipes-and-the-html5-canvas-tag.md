@@ -1,8 +1,10 @@
 ---
 title: Yahoo! Pipes and the HTML5 canvas tag
 date: '2009-05-15'
-topic: archive
+topic: link
+link: >-
+  http://feedproxy.google.com/~r/blogspot/Dcni/~3/6GtC-PyydnU/yahoo-pipes-and.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feedproxy.google.com/~r/blogspot/Dcni/~3/6GtC-PyydnU/yahoo-pipes-and.html">http://feedproxy.google.com/~r/blogspot/Dcni/~3/6GtC-PyydnU/yahoo-pipes-and.html</a> <p><i>This post is part of the <a href="http://google-code-updates.blogspot.com/2009/05/whos-google-io-spotlight-on-open-web.html" title="Who's @ Google I/O">Who&#8217;s @ Google I/O</a>, a series of blog posts that give a closer look at developers who&#8217;ll be speaking or demoing at <a href="http://code.google.com/io" title="Google I/O">Google I/O</a>. Today&#8217;s post is a guest post written by&#8230;</i></p>
+_This post is part of the [Who’s @ Google I/O](http://google-code-updates.blogspot.com/2009/05/whos-google-io-spotlight-on-open-web.html "Who's @ Google I/O"), a series of blog posts that give a closer look at developers who’ll be speaking or demoing at [Google I/O](http://code.google.com/io "Google I/O"). Today’s post is a guest post written by…_

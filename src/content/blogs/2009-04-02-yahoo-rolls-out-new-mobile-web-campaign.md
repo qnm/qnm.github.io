@@ -1,11 +1,10 @@
 ---
 title: Yahoo! Rolls Out New Mobile Web Campaign
 date: '2009-04-02'
-topic: archive
+topic: link
+link: >-
+  http://feedproxy.google.com/~r/readwriteweb/~3/KgamVo881P8/yahoo_rolls_out_new_mobile_web_campaign.php
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feedproxy.google.com/~r/readwriteweb/~3/KgamVo881P8/yahoo_rolls_out_new_mobile_web_campaign.php">http://feedproxy.google.com/~r/readwriteweb/~3/KgamVo881P8/yahoo_rolls_out_ne...</a> <p><div class='p_embed p_image_embed'>
-<img alt="Media_httpwwwreadwritewebcomimagesymobilelogoapr09jpg_bhecmeimsbfibpc" height="44" src="http://posterous.com/getfile/files.posterous.com/import-jghx/FfDjqnmnCsshkBwnusipGismjsdEJFdxldrzvvsusrsqAyqvaDikIokoyveA/media_httpwwwreadwritewebcomimagesymobilelogoapr09jpg_BHEcmeimsBFibpC.jpg.scaled500.jpg" width="150" />
-</div>
-Today at the <a href="http://www.ctiawireless.com/">CTIA Wireless Conference</a> in Las Vegas, <a href="http://www.yahoo.com">Yahoo!</a> <a href="http://yhoo.client.shareholder.com/press/releasedetail-mobile.cfm?ReleaseID=374548">officially announced</a> a new mobile-optimized site and an all-in-one <a href="http://www.apple.com/iphone">iPhone</a> application. Yahoo! has been making strong moves to&#8230;</p>
+Today at the [CTIA Wireless Conference](http://www.ctiawireless.com/) in Las Vegas, [Yahoo!](http://www.yahoo.com) [officially announced](http://yhoo.client.shareholder.com/press/releasedetail-mobile.cfm?ReleaseID=374548) a new mobile-optimized site and an all-in-one [iPhone](http://www.apple.com/iphone) application. Yahoo! has been making strong moves to…

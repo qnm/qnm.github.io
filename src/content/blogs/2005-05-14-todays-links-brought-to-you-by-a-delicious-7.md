@@ -5,17 +5,10 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://superstringtheory.com/">The Official String Theory Web Site</a>
-<br />
-<a href="http://www.20six.co.uk/max/archive/2005/05/09/zwrlixq62dla.htm">Weblog job in London</a>
-<br />
-<a href="http://www.ajaxian.com/">Learn about Ajax at Ajaxian</a>
-<br />
-<a href="http://www.audioscrobbler.com/">Audioscrobbler has a nice API</a>
-<br />
-<a href="http://www.sudoku.com/">All about sudoko</a>
-<br />
-<a href="http://www.unixwiz.net/techtips/be-consultant.html">So you want to be a consultant...?</a>
-<br />
-<a href="http://www.xml.com/pub/a/2004/11/10/delicious.html">XML.com: Introducing del.icio.us</a>
-<br />
+[The Official String Theory Web Site](http://superstringtheory.com/)
+[Weblog job in London](http://www.20six.co.uk/max/archive/2005/05/09/zwrlixq62dla.htm)
+[Learn about Ajax at Ajaxian](http://www.ajaxian.com/)
+[Audioscrobbler has a nice API](http://www.audioscrobbler.com/)
+[All about sudoko](http://www.sudoku.com/)
+[So you want to be a consultant...?](http://www.unixwiz.net/techtips/be-consultant.html)
+[XML.com: Introducing del.icio.us](http://www.xml.com/pub/a/2004/11/10/delicious.html)

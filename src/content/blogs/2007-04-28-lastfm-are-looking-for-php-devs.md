@@ -5,4 +5,4 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-If you're a PHP guru based in London, you could do much worse than work for<a href="http://www.last.fm"> last.fm</a>. They're after a <a href="http://www.last.fm/about/jobs/#job0">PHP Developer with all the usual skills</a>. If I was in London I'd like to work there. But I'm in Sydney. Where the sun shines and beaches have sand. Yay for Sydney!
+If you're a PHP guru based in London, you could do much worse than work for [last.fm](http://www.last.fm). They're after a [PHP Developer with all the usual skills](http://www.last.fm/about/jobs/#job0). If I was in London I'd like to work there. But I'm in Sydney. Where the sun shines and beaches have sand. Yay for Sydney!

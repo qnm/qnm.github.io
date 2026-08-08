@@ -1,8 +1,9 @@
 ---
 title: Customs House
 date: '2009-03-07'
-topic: archive
+topic: link
+link: http://www.cityofsydney.nsw.gov.au/customshouse/index.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://www.cityofsydney.nsw.gov.au/customshouse/index.html">http://www.cityofsydney.nsw.gov.au/customshouse/index.html</a> 
+

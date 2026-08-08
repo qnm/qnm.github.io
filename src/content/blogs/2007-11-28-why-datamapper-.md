@@ -1,8 +1,9 @@
 ---
 title: Why DataMapper?
 date: '2007-11-28'
-topic: archive
+topic: link
+link: http://datamapper.org/why.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://datamapper.org/why.html">http://datamapper.org/why.html</a> 
+

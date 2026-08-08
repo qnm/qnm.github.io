@@ -1,13 +1,11 @@
 ---
 title: 5 Questions for Gustavo
 date: '2008-11-19'
-topic: archive
+topic: link
+link: http://code.flickr.com/blog/2008/11/19/5-questions-for-gustavo/
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://code.flickr.com/blog/2008/11/19/5-questions-for-gustavo/">http://code.flickr.com/blog/2008/11/19/5-questions-for-gustavo/</a> <p><p><div class='p_embed p_image_embed'>
-<img alt="Media_httpfarm2staticflickrcom102914459544421053a4bd58tjpg_kgfswcgqeueieli" height="75" src="http://posterous.com/getfile/files.posterous.com/import-jghx/gtpsAqDddbygFFAjCBsHrvunfyugtcpHnEJJwBABoksuHhHFabgjyclhCnin/media_httpfarm2staticflickrcom102914459544421053a4bd58tjpg_kGfswCGqEueielI.jpg.scaled500.jpg" width="100" />
-</div>
-</p>
-<p>Following our <a href="http://code.flickr.com/blog/2008/10/14/5-questions-for-jim-bumgardner/">second interview</a> Kellan snuck in <a href="http://code.flickr.com/blog/2008/11/06/5-questions-for-paul-mison/">5 Questions for Paul Mison</a> before I managed to tap Jim’s suggestion of <a href="http://www.flickr.com/photos/gustavog/">Gustavo</a>.</p>
-<p>I think <a href="http://flickr.com/photos/drift-words/">Drift Words</a> sums Gustavo up nicely with <i>&#8230;</i></p></p>
+Following our [second interview](http://code.flickr.com/blog/2008/10/14/5-questions-for-jim-bumgardner/) Kellan snuck in [5 Questions for Paul Mison](http://code.flickr.com/blog/2008/11/06/5-questions-for-paul-mison/) before I managed to tap Jim’s suggestion of [Gustavo](http://www.flickr.com/photos/gustavog/).
+
+I think [Drift Words](http://flickr.com/photos/drift-words/) sums Gustavo up nicely with _…_

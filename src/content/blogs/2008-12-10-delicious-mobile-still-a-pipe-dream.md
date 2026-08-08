@@ -1,11 +1,10 @@
 ---
 title: Delicious Mobile? Still a Pipe Dream
 date: '2008-12-10'
-topic: archive
+topic: link
+link: >-
+  http://feedproxy.google.com/~r/readwriteweb/~3/6OEUp9gSgBQ/delicious_mobile_still_a_pipe_dream.php
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feedproxy.google.com/~r/readwriteweb/~3/6OEUp9gSgBQ/delicious_mobile_still_a_pipe_dream.php">http://feedproxy.google.com/~r/readwriteweb/~3/6OEUp9gSgBQ/delicious_mobile_s...</a> <p><div class='p_embed p_image_embed'>
-<img alt="Media_httpwwwreadwritewebcomimagesdeliciouslogopng_madafrxbehrjjfz" height="148" src="http://posterous.com/getfile/files.posterous.com/import-jghx/iCEvIsvHeeGcitIfqsHIBABgaJfHxIEpxcEziFxblhnHahDtzeoreulfGrod/media_httpwwwreadwritewebcomimagesdeliciouslogopng_maDafrxbEhrJJfz.png.scaled500.png" width="150" />
-</div>
-Yahoo&#8217;s popular social bookmarking tool <a href="http://delicious.com">Delicious</a> announced tonight that there is <a href="http://m.delicious.com">a new mobile version of the site</a>. We were excited to see what that included, but ultimately disappointing that&#8230;</p>
+Yahoo’s popular social bookmarking tool [Delicious](http://delicious.com) announced tonight that there is [a new mobile version of the site](http://m.delicious.com). We were excited to see what that included, but ultimately disappointing that…

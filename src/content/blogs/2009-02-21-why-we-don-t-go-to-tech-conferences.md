@@ -1,11 +1,10 @@
 ---
 title: Why We Don't Go to Tech Conferences
 date: '2009-02-21'
-topic: archive
+topic: link
+link: >-
+  http://feeds.gawker.com/~r/valleywag/full/~3/fbuSfzqMWjc/why-we-dont-go-to-tech-conferences
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feeds.gawker.com/~r/valleywag/full/~3/fbuSfzqMWjc/why-we-dont-go-to-tech-conferences">http://feeds.gawker.com/~r/valleywag/full/~3/fbuSfzqMWjc/why-we-dont-go-to-te...</a> <p><div class='p_embed p_image_embed'>
-<img alt="Media_httpcachegawkercomassetsimagesgawker20090232946215271d17abf04fjpg_nfloatiqbjqlcdm" height="375" src="http://posterous.com/getfile/files.posterous.com/import-jghx/htkbybjtHJwEnfoFawprzbprafBsrszhlodEuoqoakkxpAniaoGsveDoGrGg/media_httpcachegawkercomassetsimagesgawker20090232946215271d17abf04fjpg_nfloatiqbjqlcdm.jpg.scaled500.jpg" width="500" />
-</div>
-What if you threw a conference and everybody came, but no one paid attention? A <em><a href="http://gawker.com/tag/new-york-times/" title="Click here to read more posts tagged NEW YORK TIMES">New York Times</a></em> event for Web developers drew a crowd who sat and Twittered instead of listening to the&#8230;</p>
+What if you threw a conference and everybody came, but no one paid attention? A _[New York Times](http://gawker.com/tag/new-york-times/ "Click here to read more posts tagged NEW YORK TIMES")_ event for Web developers drew a crowd who sat and Twittered instead of listening to the…

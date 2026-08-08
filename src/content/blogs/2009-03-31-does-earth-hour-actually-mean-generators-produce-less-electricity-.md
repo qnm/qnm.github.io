@@ -1,11 +1,10 @@
 ---
 title: Does Earth Hour Actually Mean Generators Produce Less Electricity?
 date: '2009-03-31'
-topic: archive
+topic: link
+link: >-
+  http://www.treehugger.com/files/2009/03/did-earth-hour-mean-less-power-was-generated.php
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://www.treehugger.com/files/2009/03/did-earth-hour-mean-less-power-was-generated.php">http://www.treehugger.com/files/2009/03/did-earth-hour-mean-less-power-was-ge...</a> <p><div class='p_embed p_image_embed'>
-<img alt="Media_httpwwwtreehuggercomearthhouriesojpg_wenxbffijhcjccb" height="248" src="http://posterous.com/getfile/files.posterous.com/import-jghx/qcIhrtEqmixtjrCJhbkhmvlxzdiGGzHxrtEJeeemHwEbeDgbfrHlbHGDqBzs/media_httpwwwtreehuggercomearthhouriesojpg_wEnxBffIjhcJCCb.jpg.scaled500.jpg" width="467" />
-</div>
- In my post <a href="http://www.treehugger.com/files/2009/03/dear-deniers-earth-hour.php">Dear Deniers and Cranks: Earth Hour Made a Difference</a>, I said &#8220;Gas and coal fired plants dial up and down all the time to adjust for peak load, so an event like Earth Hour is&#8230;</p>
+In my post [Dear Deniers and Cranks: Earth Hour Made a Difference](http://www.treehugger.com/files/2009/03/dear-deniers-earth-hour.php), I said “Gas and coal fired plants dial up and down all the time to adjust for peak load, so an event like Earth Hour is…

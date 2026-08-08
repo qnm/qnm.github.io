@@ -1,12 +1,10 @@
 ---
 title: Wikipedia Needs Rubyists to Flesh Out Mobile Vision
 date: '2009-01-14'
-topic: archive
+topic: link
+link: >-
+  http://feedproxy.google.com/~r/RubyInside/~3/a91Odjf-FWE/wikipedia-needs-rubyists-to-flesh-out-mobile-vision-1444.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feedproxy.google.com/~r/RubyInside/~3/a91Odjf-FWE/wikipedia-needs-rubyists-to-flesh-out-mobile-vision-1444.html">http://feedproxy.google.com/~r/RubyInside/~3/a91Odjf-FWE/wikipedia-needs-ruby...</a> <p><p><div class='p_embed p_image_embed'>
-<img alt="Media_httpwwwrubyinsidecomwpcontentuploads200901hcatlinpng_altajhmwqyjahgf" height="130" src="http://posterous.com/getfile/files.posterous.com/import-jghx/AgqattnvuwleoemycxljqBnlwCADmhfCahxpoEydDjebasifowEfIHFeczrd/media_httpwwwrubyinsidecomwpcontentuploads200901hcatlinpng_AltAJhmwqyJAHgf.png.scaled500.png" width="104" />
-</div>
-</p>
-<p>You might know <a href="http://hamptoncatlin.com/">Hampton Catlin</a> as the Rubyist who invented the <a href="http://haml.hamptoncatlin.com/">Haml</a> markup system (as used in many Ruby web apps), <a href="http://haml.hamptoncatlin.com/docs/rdoc/classes/Sass.html">Sass</a> or <a href="http://mr.hamptoncatlin.com/">make_resourceful</a>. What you might not know, however, is that&#8230;</p></p>
+You might know [Hampton Catlin](http://hamptoncatlin.com/) as the Rubyist who invented the [Haml](http://haml.hamptoncatlin.com/) markup system (as used in many Ruby web apps), [Sass](http://haml.hamptoncatlin.com/docs/rdoc/classes/Sass.html) or [make\_resourceful](http://mr.hamptoncatlin.com/). What you might not know, however, is that…

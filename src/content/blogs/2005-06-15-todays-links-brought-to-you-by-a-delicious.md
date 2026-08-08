@@ -5,5 +5,4 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://www.federicopistono.org/index.php?mod=Tutorial/DVD_ripping">How to rip DVDs using Linux</a>
-<br />
+[How to rip DVDs using Linux](http://www.federicopistono.org/index.php?mod=Tutorial/DVD_ripping)

@@ -5,21 +5,8 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-<b>You are <font SIZE=6>Sean Connery</font></b>
-<table><tr><td><table><tr><td>Sean Connery</td>
-<td><hr ALIGN=LEFT NOSHADE SIZE=4 WIDTH=59/></td><td> 59%</td>
-</tr><tr><td>Pierce Brosnan</td>
-<td><hr ALIGN=LEFT NOSHADE SIZE=4 WIDTH=57/></td><td> 57%</td>
-</tr><tr><td>George Lazenby</td>
-<td><hr ALIGN=LEFT NOSHADE SIZE=4 WIDTH=52/></td><td> 52%</td>
-</tr><tr><td>Timothy Dalton</td>
-<td><hr ALIGN=LEFT NOSHADE SIZE=4 WIDTH=42/></td><td> 42%</td>
-</tr><tr><td>Daniel Craig</td>
-<td><hr ALIGN=LEFT NOSHADE SIZE=4 WIDTH=35/></td><td> 35%</td>
-</tr><tr><td>Roger Moore</td>
-<td><hr ALIGN=LEFT NOSHADE SIZE=4 WIDTH=31/></td><td> 31%</td>
-</tr></table></td>
-<td WIDTH=250>The original actor to play James Bond in a movie is generally regarded as the best.  Sean Connery has always been the epitome of sexiness, suaveness and sophistication.<br />  
-<img SRC="http://www.seabreezecomputers.com/bond/pics/sean.jpg"/></td>
-</tr></table><a HREF="http://www.seabreezecomputers.com/bond">
-Click here to take the James Bond Personality Test</a><br />
+**You are Sean Connery**
+
+<table><tbody><tr><td><table><tbody><tr><td>Sean Connery</td><td><hr align="LEFT" noshade="" size="4" width="59/"></td><td>59%</td></tr><tr><td>Pierce Brosnan</td><td><hr align="LEFT" noshade="" size="4" width="57/"></td><td>57%</td></tr><tr><td>George Lazenby</td><td><hr align="LEFT" noshade="" size="4" width="52/"></td><td>52%</td></tr><tr><td>Timothy Dalton</td><td><hr align="LEFT" noshade="" size="4" width="42/"></td><td>42%</td></tr><tr><td>Daniel Craig</td><td><hr align="LEFT" noshade="" size="4" width="35/"></td><td>35%</td></tr><tr><td>Roger Moore</td><td><hr align="LEFT" noshade="" size="4" width="31/"></td><td>31%</td></tr></tbody></table></td><td width="250">The original actor to play James Bond in a movie is generally regarded as the best. Sean Connery has always been the epitome of sexiness, suaveness and sophistication.<br><img src="http://www.seabreezecomputers.com/bond/pics/sean.jpg"></td></tr></tbody></table>
+
+[Click here to take the James Bond Personality Test](http://www.seabreezecomputers.com/bond)

@@ -1,8 +1,10 @@
 ---
 title: If You Don't Like Coal You Are A Commie! Atheist! Enemy!
 date: '2008-12-12'
-topic: archive
+topic: link
+link: >-
+  http://feedproxy.google.com/~r/treehuggersite/~3/7Lp_edTFc6E/hate-coal-commie-atheist.php
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feedproxy.google.com/~r/treehuggersite/~3/7Lp_edTFc6E/hate-coal-commie-atheist.php">http://feedproxy.google.com/~r/treehuggersite/~3/7Lp_edTFc6E/hate-coal-commie...</a> <p><embed src="http://www.youtube.com/v/NVxYyNDnORc&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;feature=player_embedded&amp;fs=1" allowfullscreen="true" wmode="transparent" allowscriptaccess="never" type="application/x-shockwave-flash" height="344" width="425"></embed> It really is quite extraordinary. We quoted <a href="http://www.treehugger.com/files/2008/11/blankenship-thin-edge-of-wedge.php">Don Blankenship of Massey Energy earlier,</a> but <a href="http://switchboard.nrdc.org/blogs/paltman/caught_on_tape_the_big_lies_of_1.html">NRDC has found the tapes</a> and edited highlights for us short attention span types&#8230;.</p>
+It really is quite extraordinary. We quoted [Don Blankenship of Massey Energy earlier,](http://www.treehugger.com/files/2008/11/blankenship-thin-edge-of-wedge.php) but [NRDC has found the tapes](http://switchboard.nrdc.org/blogs/paltman/caught_on_tape_the_big_lies_of_1.html) and edited highlights for us short attention span types….

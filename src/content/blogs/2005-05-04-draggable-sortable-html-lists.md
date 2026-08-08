@@ -5,4 +5,4 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-I&apos;ve implemented some of these <a href="http://tool-man.org/examples/">draggable, editable lists</a> in an app I&apos;m working on, drastically increasing the usability. More people should use these things.
+I've implemented some of these [draggable, editable lists](http://tool-man.org/examples/) in an app I'm working on, drastically increasing the usability. More people should use these things.

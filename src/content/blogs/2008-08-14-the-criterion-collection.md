@@ -1,8 +1,9 @@
 ---
 title: The Criterion Collection
 date: '2008-08-14'
-topic: archive
+topic: link
+link: http://www.criterion.com/asp/
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://www.criterion.com/asp/">http://www.criterion.com/asp/</a> 
+

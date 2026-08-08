@@ -1,8 +1,9 @@
 ---
 title: 'About The DiSo Project : DiSo Project'
 date: '2008-06-20'
-topic: archive
+topic: link
+link: http://diso-project.org/
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://diso-project.org/">http://diso-project.org/</a> 
+

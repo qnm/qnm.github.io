@@ -1,11 +1,9 @@
 ---
 title: Garden offices geared for telecommuting
 date: '2009-03-25'
-topic: archive
+topic: link
+link: http://feedproxy.google.com/~r/springwise/~3/VlQ6hmdjiFk/
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feedproxy.google.com/~r/springwise/~3/VlQ6hmdjiFk/">http://feedproxy.google.com/~r/springwise/~3/VlQ6hmdjiFk/</a> <p><p><div class='p_embed p_image_embed'>
-<a href="http://posterous.com/getfile/files.posterous.com/import-jghx/jFeszqwtantFamjnaudswjsaedEDbcxaeCxotwIHGxmfskbCoxowshcrsfqB/media_httpwwwspringwisecompixspotlightofficepodjpg_wzqGraAcAkEEspF.jpg.scaled1000.jpg"><img alt="Media_httpwwwspringwisecompixspotlightofficepodjpg_wzqgraacakeespf" height="234" src="http://posterous.com/getfile/files.posterous.com/import-jghx/jFeszqwtantFamjnaudswjsaedEDbcxaeCxotwIHGxmfskbCoxowshcrsfqB/media_httpwwwspringwisecompixspotlightofficepodjpg_wzqGraAcAkEEspF.jpg.scaled500.jpg" width="500" /></a>
-</div>
-</p> <p>Back in 2006 we wrote about <a href="http://www.springwise.com/homes_housing/garden_offices_for_lawn_commut/">iscape</a>, a British company that manufactured stand-alone offices for installation in the user&#8217;s home garden. The company since merged with rival Garden Lodges and&#8230;</p></p>
+Back in 2006 we wrote about [iscape](http://www.springwise.com/homes_housing/garden_offices_for_lawn_commut/), a British company that manufactured stand-alone offices for installation in the user’s home garden. The company since merged with rival Garden Lodges and…

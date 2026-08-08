@@ -1,8 +1,9 @@
 ---
 title: Opera Web Standards Curriculum
 date: '2008-07-08'
-topic: archive
+topic: link
+link: http://www.opera.com/wsc/
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://www.opera.com/wsc/">http://www.opera.com/wsc/</a> 
+

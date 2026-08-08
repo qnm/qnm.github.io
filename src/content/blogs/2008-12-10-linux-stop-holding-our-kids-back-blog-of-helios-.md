@@ -1,11 +1,10 @@
 ---
 title: Linux - Stop holding our kids back (Blog of helios)
 date: '2008-12-10'
-topic: archive
+topic: link
+link: http://www.techmeme.com/081210/p25#a081210p25
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://www.techmeme.com/081210/p25#a081210p25">http://www.techmeme.com/081210/p25#a081210p25</a> <p><div class='p_embed p_image_embed'>
-<img alt="Media_httpwwwtechmemecomimgpmlpng_htgbdmxbkrawvjq" height="12" src="http://posterous.com/getfile/files.posterous.com/import-jghx/xxqqoumtCzfqetCneDIrfpJcmaslvjJvjJGjzfmzEsqDIejgjosAllpAbyrh/media_httpwwwtechmemecomimgpmlpng_htgBDmxBkrAwvjq.png.scaled500.png" width="11" />
-</div>
- <a href="http://linuxlock.blogspot.com/">Blog of helios</a>:<br /><span style="font-size: 1.3em;"><b><a href="http://linuxlock.blogspot.com/2008/12/linux-stop-holding-our-kids-back.html">Linux - Stop holding our kids back</a></b></span>  —  This blog is momentarily interrupted to bring you a snippet of recently received email. … Karen xxxxxxxxx  —  xxxxxxxxx Middle&#8230;</p>
+[Blog of helios](http://linuxlock.blogspot.com/):
+**[Linux - Stop holding our kids back](http://linuxlock.blogspot.com/2008/12/linux-stop-holding-our-kids-back.html)**  — This blog is momentarily interrupted to bring you a snippet of recently received email. … Karen xxxxxxxxx  — xxxxxxxxx Middle…

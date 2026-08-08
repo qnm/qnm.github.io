@@ -5,4 +5,4 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-One of the recurring threads on the <a href="http://usability.gnome.org/">Gnome usability</a> mailing list is the navigational vs. spatial debate - should nautilus (or indeed, any file manager) have one and only one representation of a given directory, or should the file manager have a view that changes, allowing navigation through the hierarchy? <a href="http://interfacethis.com">David Feldman</a> provided a link into his <a href="http://interfacethis.com/pub/index.php?itemid=56">interesting and balanced article</a>, debating the merits of both. Well worth a read.
+One of the recurring threads on the [Gnome usability](http://usability.gnome.org/) mailing list is the navigational vs. spatial debate - should nautilus (or indeed, any file manager) have one and only one representation of a given directory, or should the file manager have a view that changes, allowing navigation through the hierarchy? [David Feldman](http://interfacethis.com) provided a link into his [interesting and balanced article](http://interfacethis.com/pub/index.php?itemid=56), debating the merits of both. Well worth a read.

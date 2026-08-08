@@ -1,15 +1,10 @@
 ---
 title: How Much Do Music Artists Earn Online?
 date: '2010-05-06'
-topic: archive
+topic: link
+link: >-
+  http://www.informationisbeautiful.net/2010/how-much-do-music-artists-earn-online/
 image: ../../images/tokyo.jpg
 ---
 
-<div class="posterous_bookmarklet_entry">
-      <div class='p_embed p_image_embed'>
-<img alt="Media_https3amazonaws_zhheh" height="2889" src="http://posterous.com/getfile/files.posterous.com/quannum/awebBnCaffAkIvyDofGCpcgvxvvkfmfleFaqnajBsldHEmpBoGftvbscEaGB/media_https3amazonaws_zhheh.png.scaled500.png" width="500" />
-</div>
-
-
-<div class="posterous_quote_citation">via <a href="http://www.informationisbeautiful.net/2010/how-much-do-music-artists-earn-online/">informationisbeautiful.net</a></div>
-    <p></p></div>
+via [informationisbeautiful.net](http://www.informationisbeautiful.net/2010/how-much-do-music-artists-earn-online/)

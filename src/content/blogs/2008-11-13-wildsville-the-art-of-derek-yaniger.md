@@ -1,13 +1,12 @@
 ---
 title: Wildsville - The Art of Derek Yaniger
 date: '2008-11-13'
-topic: archive
+topic: link
+link: >-
+  http://feeds.boingboing.net/~r/boingboing/iBag/~3/450996767/wildsville-the-art-o.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feeds.boingboing.net/~r/boingboing/iBag/~3/450996767/wildsville-the-art-o.html">http://feeds.boingboing.net/~r/boingboing/iBag/~3/450996767/wildsville-the-ar...</a> <p><div class='p_embed p_image_embed'>
-<img alt="Media_httpwwwboingboingnet200811121056jpg_ehipaysefdgjgbf" height="400" src="http://posterous.com/getfile/files.posterous.com/import-jghx/JbDFkuyknBHIcdIIjCtalFaFsqwdepabeJgyClBhiHtuCGbtfwEBcJnpenlE/media_httpwwwboingboingnet200811121056jpg_ehipAysEFdgjGbf.jpg.scaled500.jpg" width="400" />
-</div>
-<br /><p>
-Illustrator Derek Yaniger has a book of his illustrations called <em>Wildsville</em>. </p>
-<blockquote class="posterous_short_quote">Celebrating a retro subculture of tiki gods, hillbillies, and burlesque, this collection of Derek Yaniger&#8217;s&#8230;</blockquote></p>
+Illustrator Derek Yaniger has a book of his illustrations called _Wildsville_.
+
+> Celebrating a retro subculture of tiki gods, hillbillies, and burlesque, this collection of Derek Yaniger’s…

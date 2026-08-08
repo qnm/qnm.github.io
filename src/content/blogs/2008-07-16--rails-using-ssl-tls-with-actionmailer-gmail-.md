@@ -5,24 +5,33 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-<p><a href="http://drawohara.com/post/37908300/rails-using-ssl-tls-with-actionmailer-gmail">drawohara</a>:</p>
-<p>Using ActionMailer with tsl/ssl (for example with gmail) can be this easy</p>
-<p><b>#</b> <br /><b># step 1 - grab this tls patch for ruby’s net/smtp.rb lib</b><br /><b>#</b></p>
-<p>curl <b>-s</b> <a href="http://s3.amazonaws.com/drawohara.com.ruby/tls_smtp.rb"><a href="http://s3.amazonaws.com/drawohara.com.ruby/tls_smtp.rb">http://s3.amazonaws.com/drawohara.com.ruby/tls_smtp.rb</a></a> <b>&gt;</b></p>
-<p>./lib/tls_smtp.rb<p /><br /><b>#</b><br /><b># step 2 - put something like this into ./config/initializers/email.rb</b><br /><b>#</b></p>
-<div class="CodeRay">
-  <div class="code"><pre>require 'tls_smtp'
+[drawohara](http://drawohara.com/post/37908300/rails-using-ssl-tls-with-actionmailer-gmail):
 
-ActionMailer::Base.delivery_method = :smtp
-ActionMailer::Base.smtp_settings = {
-  :address =&gt; 'smtp.gmail.com',
-  :port =&gt; 25,
-  :domain =&gt; 'yourdomain.com',
-  :user_name =&gt; 'zaphod@yourdomain.com',
-  :password =&gt; 'beeblebrox',
-  :authentication =&gt; :plain,
+Using ActionMailer with tsl/ssl (for example with gmail) can be this easy
 
-}</pre></div>
-</div>
+**#**
+**\# step 1 - grab this tls patch for ruby’s net/smtp.rb lib**
+**#**
 
-<p>Awesome - just what i needed!</p>
+curl **\-s** [](http://s3.amazonaws.com/drawohara.com.ruby/tls_smtp.rb)<http://s3.amazonaws.com/drawohara.com.ruby/tls_smtp.rb> **\>**
+
+./lib/tls\_smtp.rb
+
+**#**
+**\# step 2 - put something like this into ./config/initializers/email.rb**
+**#**
+
+require 'tls\_smtp'
+
+ActionMailer::Base.delivery\_method = :smtp
+ActionMailer::Base.smtp\_settings = {
+  :address => 'smtp.gmail.com',
+  :port => 25,
+  :domain => 'yourdomain.com',
+  :user\_name => 'zaphod@yourdomain.com',
+  :password => 'beeblebrox',
+  :authentication => :plain,
+
+}
+
+Awesome - just what i needed!

@@ -1,11 +1,10 @@
 ---
 title: 'To Do: Check Out Remember The Milk Gmail Gadget'
 date: '2008-11-04'
-topic: archive
+topic: link
+link: >-
+  http://feedproxy.google.com/~r/readwriteweb/~3/mxHhGCd99Xc/gmail_gadget_remember_the_milk.php
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feedproxy.google.com/~r/readwriteweb/~3/mxHhGCd99Xc/gmail_gadget_remember_the_milk.php">http://feedproxy.google.com/~r/readwriteweb/~3/mxHhGCd99Xc/gmail_gadget_remem...</a> <p><div class='p_embed p_image_embed'>
-<img alt="Media_httpwwwreadwritewebcomimggmailrtmjpg_djjthzmqipkqmgz" height="144" src="http://posterous.com/getfile/files.posterous.com/import-jghx/rfCDybHCoujskhFuscoruivhduFoeyhGzyBGmrIjaruaajodJFelDDBzypxm/media_httpwwwreadwritewebcomimgGmailRTMjpg_dJjthzmqIpkqmGz.jpg.scaled500.jpg" width="150" />
-</div>
-When Google Labs launched its <a href="http://www.readwriteweb.com/archives/google_labs_offers_more_to_gma.php">Gmail gadgets for Google Calendar and Docs</a> last week, there was actually a third gadget that they included in the release. But we didn&#8217;t cover that gadget&#8230;</p>
+When Google Labs launched its [Gmail gadgets for Google Calendar and Docs](http://www.readwriteweb.com/archives/google_labs_offers_more_to_gma.php) last week, there was actually a third gadget that they included in the release. But we didn’t cover that gadget…

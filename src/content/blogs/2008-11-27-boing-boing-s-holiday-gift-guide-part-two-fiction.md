@@ -1,8 +1,10 @@
 ---
 title: 'Boing Boing''s Holiday Gift Guide part two: Fiction'
 date: '2008-11-27'
-topic: archive
+topic: link
+link: >-
+  http://feeds.boingboing.net/~r/boingboing/iBag/~3/467312415/boing-boings-holiday-1.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feeds.boingboing.net/~r/boingboing/iBag/~3/467312415/boing-boings-holiday-1.html">http://feeds.boingboing.net/~r/boingboing/iBag/~3/467312415/boing-boings-holi...</a> <p>Here&#8217;s part two of my Boing Boing Holiday Gift Guide &#8212; wherein I list the bestselling items that have been reviewed here in the past twelve months. Today, it&#8217;s fiction. Don&#8217;t miss yesterday&#8217;s <a href="http://www.boingboing.net/2008/11/26/boing-boings-holiday.html">&#8230;</a></p>
+Here’s part two of my Boing Boing Holiday Gift Guide — wherein I list the bestselling items that have been reviewed here in the past twelve months. Today, it’s fiction. Don’t miss yesterday’s […](http://www.boingboing.net/2008/11/26/boing-boings-holiday.html)

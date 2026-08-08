@@ -1,8 +1,9 @@
 ---
 title: Current Cost Wiki
 date: '2009-02-18'
-topic: archive
+topic: link
+link: http://currentcost.wetpaint.com/
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://currentcost.wetpaint.com/">http://currentcost.wetpaint.com/</a> 
+

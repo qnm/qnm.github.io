@@ -5,8 +5,8 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-<p>This is incredibly nerdy and brilliant at the same time:</p>
-<blockquote class="posterous_medium_quote">
-<p>This is an old invention of mine. I had trouble waking up for work, and traditional alarm clocks didn’t seem to help. I learned to hit the snooze or off buttons in my sleep. The problem was that alarms are too easy to turn off, and so I set forth to create an alarm clock that challenges me to prove that I am awake.</p>
-</blockquote>
-<p><a href="http://www.cheaphack.net/2008/01/turing-alarm-clock.html">http://www.cheaphack.net/2008/01/turing-alarm-clock.html</a></p>
+This is incredibly nerdy and brilliant at the same time:
+
+> This is an old invention of mine. I had trouble waking up for work, and traditional alarm clocks didn’t seem to help. I learned to hit the snooze or off buttons in my sleep. The problem was that alarms are too easy to turn off, and so I set forth to create an alarm clock that challenges me to prove that I am awake.
+
+<http://www.cheaphack.net/2008/01/turing-alarm-clock.html>

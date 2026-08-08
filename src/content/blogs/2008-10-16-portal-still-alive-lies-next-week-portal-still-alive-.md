@@ -1,11 +1,10 @@
 ---
 title: 'Portal: Still Alive Lies Next Week [Portal: Still Alive]'
 date: '2008-10-16'
-topic: archive
+topic: link
+link: >-
+  http://feeds.gawker.com/~r/kotaku/full/~3/422866997/portal-still-alive-lies-next-week
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feeds.gawker.com/~r/kotaku/full/~3/422866997/portal-still-alive-lies-next-week">http://feeds.gawker.com/~r/kotaku/full/~3/422866997/portal-still-alive-lies-n...</a> <p><div class='p_embed p_image_embed'>
-<img alt="Media_httpcachegawkercomassetsimageskotaku200810prtallogojpg_eihhbycbacewipj" height="211" src="http://posterous.com/getfile/files.posterous.com/import-jghx/AxxDbeljabCfyxFHlpEflGHByBqmmstImoDdnbzmqmGxDmJwdFaIGBIklgHf/media_httpcachegawkercomassetsimageskotaku200810prtallogojpg_eIHhByCBacewipJ.jpg.scaled500.jpg" width="200" />
-</div>
- Are you an Xbox 360 owner that didn&#8217;t pick up The Orange Box when it was released around this time last year? What is wrong with you? No no, it&#8217;s okay. You&#8217;ll be able to snag the best of the&#8230;</p>
+Are you an Xbox 360 owner that didn’t pick up The Orange Box when it was released around this time last year? What is wrong with you? No no, it’s okay. You’ll be able to snag the best of the…

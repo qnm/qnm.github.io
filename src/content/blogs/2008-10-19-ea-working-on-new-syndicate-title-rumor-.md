@@ -1,11 +1,10 @@
 ---
 title: EA Working On New Syndicate Title [Rumor]
 date: '2008-10-19'
-topic: archive
+topic: link
+link: >-
+  http://feeds.gawker.com/~r/kotaku/full/~3/424236769/ea-working-on-new-syndicate-title
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feeds.gawker.com/~r/kotaku/full/~3/424236769/ea-working-on-new-syndicate-title">http://feeds.gawker.com/~r/kotaku/full/~3/424236769/ea-working-on-new-syndica...</a> <p><div class='p_embed p_image_embed'>
-<img alt="Media_httpcachegawkercomassetsimageskotaku200810syndicatejpg_gcxtijpkklfigjm" height="308" src="http://posterous.com/getfile/files.posterous.com/import-jghx/FdncDuvExfxjIymqtkvdrAxgswcmytzvyieeCplIzpmoJwjsfHcwozbotFEF/media_httpcachegawkercomassetsimageskotaku200810syndicatejpg_GCxtIjpkklfIgjm.jpg.scaled500.jpg" width="494" />
-</div>
-Cast your minds back to February, and you&#8217;ll remember some excitement surrounding the revelation Starbreeze had been <a href="http://kotaku.com/359134/starbreeze-teams-with-ea-to-reinvent-something">tapped by EA to work on one of the company&#8217;s &#8220;classic&#8221; franchises</a>. Some&#8230;</p>
+Cast your minds back to February, and you’ll remember some excitement surrounding the revelation Starbreeze had been [tapped by EA to work on one of the company’s “classic” franchises](http://kotaku.com/359134/starbreeze-teams-with-ea-to-reinvent-something). Some…

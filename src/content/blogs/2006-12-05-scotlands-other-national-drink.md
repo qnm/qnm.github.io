@@ -5,6 +5,4 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-Here's a <a href="http://irn-bru.co.uk/snowman/index.html">fantastic Christmas ad</a> from <a href="http://irn-bru.co.uk/">Irn-Bru.</a>
-
-Thanks to <a href="http://blogs.gnome.org/portal/calum">Calum Bension</a> for that one.
+Here's a [fantastic Christmas ad](http://irn-bru.co.uk/snowman/index.html) from [Irn-Bru.](http://irn-bru.co.uk/) Thanks to [Calum Bension](http://blogs.gnome.org/portal/calum) for that one.

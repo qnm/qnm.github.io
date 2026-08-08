@@ -1,11 +1,10 @@
 ---
 title: First iGoogle Banking Gadget Released By Fidelity
 date: '2008-12-10'
-topic: archive
+topic: link
+link: >-
+  http://feedproxy.google.com/~r/readwriteweb/~3/JM9gdff9pg4/first_igoogle_banking_gadget_by_fidelity.php
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feedproxy.google.com/~r/readwriteweb/~3/JM9gdff9pg4/first_igoogle_banking_gadget_by_fidelity.php">http://feedproxy.google.com/~r/readwriteweb/~3/JM9gdff9pg4/first_igoogle_bank...</a> <p><div class='p_embed p_image_embed'>
-<img alt="Media_httpwwwreadwritewebcomimagesgadgetscreensmjpg_hswajajadcxedcb" height="226" src="http://posterous.com/getfile/files.posterous.com/import-jghx/yxfpfbHmCyhAEfzujafukGdbaBtdlgpixCJgfvIiFtjIFjbkgvEhshzokDrI/media_httpwwwreadwritewebcomimagesgadgetscreensmjpg_HswaJAJAdCxEDcB.jpg.scaled500.jpg" width="148" />
-</div>
-<a href="https://www.fidelity.com/">Fidelity</a>, one of the world&#8217;s largest financial service institutions, has just launched the first iGoogle secure banking gadget for use by their tens of millions of customers. With the new <a href="http://www.fidelitylabs.com/securegadget/index.shtml">&#8230;</a></p>
+[Fidelity](https://www.fidelity.com/), one of the world’s largest financial service institutions, has just launched the first iGoogle secure banking gadget for use by their tens of millions of customers. With the new […](http://www.fidelitylabs.com/securegadget/index.shtml)

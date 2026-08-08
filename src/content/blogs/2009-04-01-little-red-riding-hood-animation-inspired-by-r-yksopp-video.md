@@ -1,8 +1,10 @@
 ---
 title: Little Red Riding Hood animation inspired by RÃ¶yksopp video
 date: '2009-04-01'
-topic: archive
+topic: link
+link: >-
+  http://feeds.boingboing.net/~r/boingboing/iBag/~3/w18v0RyjMR8/little-red-riding-ho.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feeds.boingboing.net/~r/boingboing/iBag/~3/w18v0RyjMR8/little-red-riding-ho.html">http://feeds.boingboing.net/~r/boingboing/iBag/~3/w18v0RyjMR8/little-red-ridi...</a> <p><embed src="http://vimeo.com/moogaloop.swf?clip_id=3514904&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" allowfullscreen="true" wmode="transparent" allowscriptaccess="never" type="application/x-shockwave-flash" height="225" width="400"></embed><br /> Tomas Nilsson created this animation as a school assignment. It is an interpretation of Little Red Riding Hood with music by <a href="http://www.google.com/url?sa=U&amp;start=1&amp;q=http://www.myspace.com/slagsmalsklubben&amp;ei=XbfSSfTCAof-swOc3JjcCQ&amp;usg=AFQjCNHRqrcyN2u7sMRpckCGDp8RN9Hviw">Slagsmålsklubben</a>. He was inspired by the music video for&#8230;</p>
+Tomas Nilsson created this animation as a school assignment. It is an interpretation of Little Red Riding Hood with music by [Slagsmålsklubben](http://www.google.com/url?sa=U&start=1&q=http://www.myspace.com/slagsmalsklubben&ei=XbfSSfTCAof-swOc3JjcCQ&usg=AFQjCNHRqrcyN2u7sMRpckCGDp8RN9Hviw). He was inspired by the music video for…

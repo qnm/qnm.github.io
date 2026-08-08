@@ -1,8 +1,9 @@
 ---
 title: Roo Reynolds
 date: '2009-04-02'
-topic: archive
+topic: link
+link: http://rooreynolds.com/
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://rooreynolds.com/">http://rooreynolds.com/</a> 
+

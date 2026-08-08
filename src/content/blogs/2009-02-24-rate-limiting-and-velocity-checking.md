@@ -1,21 +1,13 @@
 ---
 title: Rate Limiting and Velocity Checking
 date: '2009-02-24'
-topic: archive
+topic: link
+link: http://www.codinghorror.com/blog/archives/001228.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://www.codinghorror.com/blog/archives/001228.html">http://www.codinghorror.com/blog/archives/001228.html</a> <p><p>
-Lately, I&#8217;ve been seeing these <b>odd little signs</b> pop up in storefronts around town.
-</p>
-<p>
-<div class='p_embed p_image_embed'>
-<a href="http://posterous.com/getfile/files.posterous.com/import-jghx/frdwyjgDqwDztgxynhsiGqbDlFaxsAptCJgeEhuedIgvdymGhhApFcHcABqp/media_httpwwwcodinghorrorcomblogimages711ratelimiter2jpg_HxwweplnwlnJsav.jpg.scaled1000.jpg"><img alt="Media_httpwwwcodinghorrorcomblogimages711ratelimiter2jpg_hxwweplnwlnjsav" height="375" src="http://posterous.com/getfile/files.posterous.com/import-jghx/frdwyjgDqwDztgxynhsiGqbDlFaxsAptCJgeEhuedIgvdymGhhApFcHcABqp/media_httpwwwcodinghorrorcomblogimages711ratelimiter2jpg_HxwweplnwlnJsav.jpg.scaled500.jpg" width="500" /></a>
-</div>
-</p>
-<p>
-All the signs have various forms of this printed on them:
-</p>
+Lately, I’ve been seeing these **odd little signs** pop up in storefronts around town.
 
-<blockquote class="posterous_short_quote">
-Only 3 students at a time in the store&#8230;</blockquote></p>
+All the signs have various forms of this printed on them:
+
+> Only 3 students at a time in the store…

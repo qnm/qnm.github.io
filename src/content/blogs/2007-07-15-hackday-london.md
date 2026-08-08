@@ -1,8 +1,9 @@
 ---
 title: Hackday London
 date: '2007-07-15'
-topic: archive
+topic: link
+link: http://hackday.org/
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://hackday.org/">http://hackday.org/</a> 
+

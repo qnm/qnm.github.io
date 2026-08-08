@@ -1,11 +1,13 @@
 ---
 title: The two elements of a great presenter
 date: '2009-03-06'
-topic: archive
+topic: link
+link: >-
+  http://sethgodin.typepad.com/seths_blog/2009/03/the-two-elements-of-a-great-presenter.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://sethgodin.typepad.com/seths_blog/2009/03/the-two-elements-of-a-great-presenter.html">http://sethgodin.typepad.com/seths_blog/2009/03/the-two-elements-of-a-great-p...</a> <p><div>
-<p>1. Respect (<em>from</em> the audience)<br />2. Love (<em>to</em> the audience)</p>
-<p>There are no doubt important evolutionary reasons why this is true, but in my experience, every great presenter earns the respect of the&#8230;</p>
-</div></p>
+1\. Respect (_from_ the audience)
+2\. Love (_to_ the audience)
+
+There are no doubt important evolutionary reasons why this is true, but in my experience, every great presenter earns the respect of the…

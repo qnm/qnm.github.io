@@ -1,8 +1,9 @@
 ---
 title: The PANTS Daily Chump
 date: '2007-11-28'
-topic: archive
+topic: link
+link: http://dailychump.org/
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://dailychump.org/">http://dailychump.org/</a> 
+

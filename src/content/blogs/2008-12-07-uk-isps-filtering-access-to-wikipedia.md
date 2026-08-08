@@ -1,11 +1,10 @@
 ---
 title: UK ISPs Filtering Access to Wikipedia
 date: '2008-12-07'
-topic: archive
+topic: link
+link: >-
+  http://feedproxy.google.com/~r/readwriteweb/~3/9fN5l5NKUXA/uk_isps_filtering_access_to_wi.php
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feedproxy.google.com/~r/readwriteweb/~3/9fN5l5NKUXA/uk_isps_filtering_access_to_wi.php">http://feedproxy.google.com/~r/readwriteweb/~3/9fN5l5NKUXA/uk_isps_filtering_...</a> <p><div class='p_embed p_image_embed'>
-<img alt="Media_httpwwwreadwritewebcomwikipediadec08jpg_rxblekijkhizhgi" height="146" src="http://posterous.com/getfile/files.posterous.com/import-jghx/dBCwoCDeDGzaItrfoEyHojkxjxeoaGaqIbccmGJAhpudrdizytawFFBztkav/media_httpwwwreadwritewebcomwikipediadec08jpg_rxblekIJkHizhGI.jpg.scaled500.jpg" width="116" />
-</div>
-<a href="http://community.zdnet.co.uk/blog/0,1000000567,10009938o-2000331777b,00.htm">ZDNet</a> is reporting that six British ISPs are filtering access to Wikipedia as a result of the site being added to the <a href="http://www.iwf.org.uk/">Internet Watch Foundation</a> after accusations that it is hosting what&#8230;</p>
+[ZDNet](http://community.zdnet.co.uk/blog/0,1000000567,10009938o-2000331777b,00.htm) is reporting that six British ISPs are filtering access to Wikipedia as a result of the site being added to the [Internet Watch Foundation](http://www.iwf.org.uk/) after accusations that it is hosting what…

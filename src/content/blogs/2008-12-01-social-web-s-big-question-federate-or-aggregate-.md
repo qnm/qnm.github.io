@@ -1,10 +1,9 @@
 ---
 title: "Social Webâ\x80\x99s Big Question: Federate or Aggregate?"
 date: '2008-12-01'
-topic: archive
+topic: link
+link: http://feedproxy.google.com/~r/OmMalik/~3/k_4D-xGFC0I/
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feedproxy.google.com/~r/OmMalik/~3/k_4D-xGFC0I/">http://feedproxy.google.com/~r/OmMalik/~3/k_4D-xGFC0I/</a> <p><div>
-<p>Inventor and tech-philosopher Dave Winer <a href="http://twitter.com/davewiner/status/1031518605">Twittered tonight</a> that federation is the hot thing, pointing to <a href="http://www.nytimes.com/2008/12/01/technology/internet/01facebook.html">a New York Times article about Facebook Connect</a>. And just like that he touched upon the&#8230;</p>
-</div></p>
+Inventor and tech-philosopher Dave Winer [Twittered tonight](http://twitter.com/davewiner/status/1031518605) that federation is the hot thing, pointing to [a New York Times article about Facebook Connect](http://www.nytimes.com/2008/12/01/technology/internet/01facebook.html). And just like that he touched upon the…

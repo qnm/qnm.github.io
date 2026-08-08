@@ -1,9 +1,11 @@
 ---
 title: Bruce Sterling on Web 2.0
 date: '2009-03-02'
-topic: archive
+topic: link
+link: http://www.boingboing.net/2009/03/01/bruce-sterling-on-we.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://www.boingboing.net/2009/03/01/bruce-sterling-on-we.html">http://www.boingboing.net/2009/03/01/bruce-sterling-on-we.html</a> <p><p>Bruce Sterling&#8217;s Webstock talk on Web 2.0 has a whole crapload of incredibly insightful stuff in it, and ends on a note that makes me want to go to the barricades: </p>
-<blockquote class="posterous_short_quote"> That&#8217;s the key Web 2.0 insight:&#8230;</blockquote></p>
+Bruce Sterling’s Webstock talk on Web 2.0 has a whole crapload of incredibly insightful stuff in it, and ends on a note that makes me want to go to the barricades:
+
+> That’s the key Web 2.0 insight:…

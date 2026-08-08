@@ -1,9 +1,11 @@
 ---
 title: 'Living Simply: The Ultimate Guide to Conquering Your Clutter'
 date: '2008-11-20'
-topic: archive
+topic: link
+link: http://feeds.feedburner.com/~r/zenhabits/~3/458919982/
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feeds.feedburner.com/~r/zenhabits/~3/458919982/">http://feeds.feedburner.com/~r/zenhabits/~3/458919982/</a> <p><blockquote class="posterous_short_quote"><p>“Be content with what you have, rejoice in the way things are.  When you realize there is nothing lacking, the whole world belongs to you.” <strong>- Lao Tzu</strong></p></blockquote>
-<h6><strong>Article by <a href="http://zenhabits.net/about/">Leo Babauta</a>. (Follow me on <a href="http://twitter.com/zen_habits">&#8230;</a></strong></h6></p>
+> “Be content with what you have, rejoice in the way things are.  When you realize there is nothing lacking, the whole world belongs to you.” **\- Lao Tzu**
+
+###### **Article by [Leo Babauta](http://zenhabits.net/about/). (Follow me on […](http://twitter.com/zen_habits)**

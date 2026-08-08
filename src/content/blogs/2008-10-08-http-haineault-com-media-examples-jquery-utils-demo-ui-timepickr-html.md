@@ -1,8 +1,9 @@
 ---
 title: http://haineault.com/media/examples/jquery-utils/demo/ui-timepickr.html
 date: '2008-10-08'
-topic: archive
+topic: link
+link: http://haineault.com/media/examples/jquery-utils/demo/ui-timepickr.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://haineault.com/media/examples/jquery-utils/demo/ui-timepickr.html">http://haineault.com/media/examples/jquery-utils/demo/ui-timepickr.html</a> <p>I just wanted to see if I could create a better time picker. I&#8217;ve seen lots of time pickers styles and approaches, but none seems to focus on user experience accross many platforms and beautiful&#8230;</p>
+I just wanted to see if I could create a better time picker. I’ve seen lots of time pickers styles and approaches, but none seems to focus on user experience accross many platforms and beautiful…

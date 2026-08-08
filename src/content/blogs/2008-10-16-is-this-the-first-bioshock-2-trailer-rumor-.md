@@ -1,8 +1,10 @@
 ---
 title: Is This The First BioShock 2 Trailer? [Rumor]
 date: '2008-10-16'
-topic: archive
+topic: link
+link: >-
+  http://feeds.gawker.com/~r/kotaku/full/~3/422621587/is-this-the-first-bioshock-2-trailer
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feeds.gawker.com/~r/kotaku/full/~3/422621587/is-this-the-first-bioshock-2-trailer">http://feeds.gawker.com/~r/kotaku/full/~3/422621587/is-this-the-first-bioshoc...</a> <p><embed src="http://www.youtube.com/v/Rzf18bZCPCI&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en&amp;fs=1" wmode="transparent" allowscriptaccess="never" type="application/x-shockwave-flash" height="400" width="494"></embed><br /> The freshly-released PS3 version of BioShock has a little treat tucked away within; it (seemingly) includes the first trailer for BioShock 2. Watch it above (though be warned, it&#8217;s in&#8230;</p>
+The freshly-released PS3 version of BioShock has a little treat tucked away within; it (seemingly) includes the first trailer for BioShock 2. Watch it above (though be warned, it’s in…

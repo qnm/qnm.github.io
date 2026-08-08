@@ -5,4 +5,4 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-Our office was recently <a href="http://youtube.com/watch?v=BfNpIIKSzCE">sent this invite</a> to a party put on by the guys at <a href="http://www.myspace.com/minimalfuss">minimal fuss</a>, which is a nice take on the classic 'Subterranean Homesick Blues' by Bob Dylan, a fantastic video in its day!
+Our office was recently [sent this invite](http://youtube.com/watch?v=BfNpIIKSzCE) to a party put on by the guys at [minimal fuss](http://www.myspace.com/minimalfuss), which is a nice take on the classic 'Subterranean Homesick Blues' by Bob Dylan, a fantastic video in its day!

@@ -1,15 +1,11 @@
 ---
 title: Snow Crash
 date: '2010-01-07'
-topic: archive
+topic: link
+link: http://news.bbc.co.uk/2/shared/spl/hi/pop_ups/08/uk_enl_1262875012/html/1.stm
 image: ../../images/tokyo.jpg
 ---
 
-<div class="posterous_bookmarklet_entry">
-      <div class='p_embed p_image_embed'>
-<img alt="Media_httpnewsbbccouk_bcfgb" height="550" src="http://posterous.com/getfile/files.posterous.com/quannum/cqxabIyuqyCmbhHBqEkprlhhnrjveAvIihjofFrdpylGlykqrpGuHnxspFEp/media_httpnewsbbccouk_bcFgB.jpg.scaled500.jpg" width="430" />
-</div>
+via [news.bbc.co.uk](http://news.bbc.co.uk/2/shared/spl/hi/pop_ups/08/uk_enl_1262875012/html/1.stm)
 
-
-<div class="posterous_quote_citation">via <a href="http://news.bbc.co.uk/2/shared/spl/hi/pop_ups/08/uk_enl_1262875012/html/1.stm">news.bbc.co.uk</a></div>
-    <p>"The winter whiteout conditions affecting the UK are clearly visible in this striking image received by the University of Dundee Satellite Receiving Station. It shows almost all of the country covered in a white blanket of snow and ice. Photo by NEODAAS/University of Dundee."</p></div>
+"The winter whiteout conditions affecting the UK are clearly visible in this striking image received by the University of Dundee Satellite Receiving Station. It shows almost all of the country covered in a white blanket of snow and ice. Photo by NEODAAS/University of Dundee."

@@ -1,15 +1,11 @@
 ---
 title: 'Formica: Affordable, open source swarm robotics'
 date: '2010-01-10'
-topic: archive
+topic: link
+link: http://warrantyvoidifremoved.com/formica
 image: ../../images/tokyo.jpg
 ---
 
-<div class="posterous_bookmarklet_entry">
-      <div class='p_embed p_image_embed'>
-<img alt="Media_httpfarm4static_yqrfw" height="375" src="http://posterous.com/getfile/files.posterous.com/quannum/GbflxaAnyfcCiwwIxauCFmyBronqEcIzniqoocHbtkjbyzxispHyqnutvmEA/media_httpfarm4static_yqrFw.jpg.scaled500.jpg" width="500" />
-</div>
+via [warrantyvoidifremoved.com](http://warrantyvoidifremoved.com/formica)
 
-
-<div class="posterous_quote_citation">via <a href="http://warrantyvoidifremoved.com/formica">warrantyvoidifremoved.com</a></div>
-    <p>Swarm robotics is a hot research area. Various algorithms for distributed problem solving are being developed, particularly in simulations. The focus is on complex, emergent behaviour arising from the local interactions of individuals following simple rules.</p></div>
+Swarm robotics is a hot research area. Various algorithms for distributed problem solving are being developed, particularly in simulations. The focus is on complex, emergent behaviour arising from the local interactions of individuals following simple rules.

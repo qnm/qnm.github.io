@@ -1,8 +1,10 @@
 ---
 title: Bruce Sterling on our global psychosis, ca. 2009
 date: '2009-01-30'
-topic: archive
+topic: link
+link: >-
+  http://feeds.boingboing.net/~r/boingboing/iBag/~3/526995370/bruce-sterling-on-ou.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feeds.boingboing.net/~r/boingboing/iBag/~3/526995370/bruce-sterling-on-ou.html">http://feeds.boingboing.net/~r/boingboing/iBag/~3/526995370/bruce-sterling-on...</a> <p>Bruce Sterling&#8217;s lead editorial in SEED Magazine&#8217;s feature on the 21st century enumerates the disastrous contradictions and changes in the shifting global mindset, and scathingly demands that we fix&#8230;</p>
+Bruce Sterling’s lead editorial in SEED Magazine’s feature on the 21st century enumerates the disastrous contradictions and changes in the shifting global mindset, and scathingly demands that we fix…

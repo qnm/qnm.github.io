@@ -1,12 +1,11 @@
 ---
 title: That higher degree - BankerVision
 date: '2010-02-23'
-topic: archive
+topic: link
+link: http://bankervision.typepad.com/bankervision/2010/02/that-higher-degree.html
 image: ../../images/tokyo.jpg
 ---
 
-<div class="posterous_bookmarklet_entry">
-      <blockquote class="posterous_medium_quote">You will not have a boss long enough in IT for them to manage your career for you in any substantive way, and most large organisations are rubbish at long term talent management anyway. The fact is, long term IT professionals who don’t change jobs frequently enough get painted into a corner where their skills devalue over time. And IT organisations are full of people who know this, and who therefore&nbsp; move every few years, making long term talent management pretty impossible.</blockquote>
+> You will not have a boss long enough in IT for them to manage your career for you in any substantive way, and most large organisations are rubbish at long term talent management anyway. The fact is, long term IT professionals who don’t change jobs frequently enough get painted into a corner where their skills devalue over time. And IT organisations are full of people who know this, and who therefore  move every few years, making long term talent management pretty impossible.
 
-<div class="posterous_quote_citation">via <a href="http://bankervision.typepad.com/bankervision/2010/02/that-higher-degree.html">bankervision.typepad.com</a></div>
-    <p></p></div>
+via [bankervision.typepad.com](http://bankervision.typepad.com/bankervision/2010/02/that-higher-degree.html)

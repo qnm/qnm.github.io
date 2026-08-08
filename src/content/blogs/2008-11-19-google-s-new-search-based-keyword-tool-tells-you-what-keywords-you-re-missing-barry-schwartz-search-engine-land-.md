@@ -3,11 +3,10 @@ title: >-
   Google's New Search-Based Keyword Tool Tells You What Keywords You're Missing
   (Barry Schwartz/Search Engine Land)
 date: '2008-11-19'
-topic: archive
+topic: link
+link: http://www.techmeme.com/081118/p121#a081118p121
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://www.techmeme.com/081118/p121#a081118p121">http://www.techmeme.com/081118/p121#a081118p121</a> <p><div class='p_embed p_image_embed'>
-<img alt="Media_httpwwwtechmemecomimgpmlpng_bbbixqofyocijye" height="12" src="http://posterous.com/getfile/files.posterous.com/import-jghx/llCiHyevmnIasEFofoisfAvbEDfdgdblmzxnhyqzHHkjFoBJjsGaJullBket/media_httpwwwtechmemecomimgpmlpng_BbBIxqoFyoCIjye.png.scaled500.png" width="11" />
-</div>
- Barry Schwartz / <a href="http://searchengineland.com/">Search Engine Land</a>:<br /><span style="font-size: 1.3em;"><b><a href="http://searchengineland.com/googles-new-search-based-keyword-tool-15525.php">Google&#8217;s New Search-Based Keyword Tool Tells You What Keywords You&#8217;re Missing</a></b></span>  —  Google released a new keyword tool tonight, named the&#8230;</p>
+Barry Schwartz / [Search Engine Land](http://searchengineland.com/):
+**[Google’s New Search-Based Keyword Tool Tells You What Keywords You’re Missing](http://searchengineland.com/googles-new-search-based-keyword-tool-15525.php)**  — Google released a new keyword tool tonight, named the…

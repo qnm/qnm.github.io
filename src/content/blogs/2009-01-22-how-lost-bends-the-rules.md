@@ -1,8 +1,10 @@
 ---
 title: How Lost bends the rules
 date: '2009-01-22'
-topic: archive
+topic: link
+link: >-
+  http://feeds.boingboing.net/~r/boingboing/iBag/~3/520014247/how-lost-bends-the-r.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feeds.boingboing.net/~r/boingboing/iBag/~3/520014247/how-lost-bends-the-r.html">http://feeds.boingboing.net/~r/boingboing/iBag/~3/520014247/how-lost-bends-th...</a> <p><em>Ed Note: Boingboing&#8217;s current guest blogger <a href="http://www.stevenberlinjohnson.com">Steven Johnson</a> is the author of six books, most recently <a href="http://www.amazon.com/exec/obidos/ASIN/1594488525/boingboing">The Invention Of Air: A Story of Science, Faith, Revolution and the Birth Of America</a>, for&#8230;</em></p>
+_Ed Note: Boingboing’s current guest blogger [Steven Johnson](http://www.stevenberlinjohnson.com) is the author of six books, most recently [The Invention Of Air: A Story of Science, Faith, Revolution and the Birth Of America](http://www.amazon.com/exec/obidos/ASIN/1594488525/boingboing), for…_

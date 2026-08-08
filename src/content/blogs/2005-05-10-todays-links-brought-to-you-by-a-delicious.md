@@ -5,5 +5,4 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://www.rocketboom.com/vlog/">Video bloggging - worth a look</a>
-<br />
+[Video bloggging - worth a look](http://www.rocketboom.com/vlog/)

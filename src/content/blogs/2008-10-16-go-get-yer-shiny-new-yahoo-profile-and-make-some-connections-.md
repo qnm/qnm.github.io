@@ -1,11 +1,9 @@
 ---
 title: "Go Get Yer Shiny New Yahoo Profileâ\x80¦And Make Some Connections!"
 date: '2008-10-16'
-topic: archive
+topic: link
+link: http://feedproxy.google.com/~r/Techcrunch/~3/qqBWReyTQPU/
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feedproxy.google.com/~r/Techcrunch/~3/qqBWReyTQPU/">http://feedproxy.google.com/~r/Techcrunch/~3/qqBWReyTQPU/</a> <p><div class='p_embed p_image_embed'>
-<img alt="Media_httpwwwtechcrunchcomwpcontentuploads200810yjpg_psmufrrvdfgvvff" height="206" src="http://posterous.com/getfile/files.posterous.com/import-jghx/zbBqmbgomHHoqfarpHsGmBsoxJqChCbabCfEylwBCpmenbsjybqjebcjuqbh/media_httpwwwtechcrunchcomwpcontentuploads200810yjpg_psmuFrrvDfgvvFF.jpg.scaled500.jpg" width="223" />
-</div>
-Yahoo begins the rollout of its new user profile today, which marks the first tangible product release for the social part of the Yahoo Open Strategy, or YOS. The profile is one of the anchors&#8230;</p>
+Yahoo begins the rollout of its new user profile today, which marks the first tangible product release for the social part of the Yahoo Open Strategy, or YOS. The profile is one of the anchors…

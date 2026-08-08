@@ -5,11 +5,24 @@ topic: archive
 image: ../../images/tokyo.jpg
 ---
 
-<p>I didn't find the solution to using will_paginate in rpsec'd views anywhere, so here it is for anyone else searching for the same.</p>
-<p>The solution is to build mock ActiveRecord models as part of an array, which will get you most of the way there. Then you can either the mock in the will_paginate methods, or you can simply call the paginate method on the array itself, as the plugin extends the Array class.</p>
-<p>The code looks a bit like this:</p>
-<blockquote class="posterous_medium_quote">
-<p>describe "/items/index.html.erb" do</p>
-<p>&nbsp; before(:each) do<br />&nbsp;&nbsp;&nbsp; @items = [<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; stub_model(Item,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :name =&gt; "value for name",<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :description =&gt; "value for description"<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ),<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; stub_model(Item,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :name =&gt; "value for name",<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :description =&gt; "value for description"<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; )<br />&nbsp;&nbsp;&nbsp; ]<br />&nbsp;&nbsp;&nbsp; assigns[:items] = @items.paginate({:page =&gt; 1, :per_page =&gt; 30})<br />&nbsp; end</p>
-</blockquote>
-<p>&nbsp;</p>
+I didn't find the solution to using will\_paginate in rpsec'd views anywhere, so here it is for anyone else searching for the same.
+
+The solution is to build mock ActiveRecord models as part of an array, which will get you most of the way there. Then you can either the mock in the will\_paginate methods, or you can simply call the paginate method on the array itself, as the plugin extends the Array class.
+
+The code looks a bit like this:
+
+> describe "/items/index.html.erb" do
+>
+>   before(:each) do
+> @items = \[
+> stub\_model(Item,
+> :name => "value for name",
+> :description => "value for description"
+> ),
+> stub\_model(Item,
+> :name => "value for name",
+> :description => "value for description"
+> )
+> \]
+> assigns\[:items\] = @items.paginate({:page => 1, :per\_page => 30})
+>   end

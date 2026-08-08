@@ -1,12 +1,11 @@
 ---
 title: Internode Selling Fibre To The Home (If You Buy A New Home)
 date: '2009-02-27'
-topic: archive
+topic: link
+link: >-
+  http://feeds.lifehacker.com.au/~r/LifehackerAustralia/~3/FflM8ZFKzWY/internode_selling_fibre_to_the_home_if_you_buy_a_new_home.html
 image: ../../images/tokyo.jpg
 ---
 
-<a href="http://feeds.lifehacker.com.au/~r/LifehackerAustralia/~3/FflM8ZFKzWY/internode_selling_fibre_to_the_home_if_you_buy_a_new_home.html">http://feeds.lifehacker.com.au/~r/LifehackerAustralia/~3/FflM8ZFKzWY/internod...</a> <p><span style="display: inline;"><div class='p_embed p_image_embed'>
-<img alt="" src="http://www.lifehacker.com.au/Fernbrooke.jpg" />
-</div>
-</span><br />
-There&#8217;s thousands of kilometres of optical fibre running around Australia, but generally precious little chance of using it for high-speed Internet access unless you&#8217;re a large corporation&#8230;.</p>
+![](http://www.lifehacker.com.au/Fernbrooke.jpg)
+There’s thousands of kilometres of optical fibre running around Australia, but generally precious little chance of using it for high-speed Internet access unless you’re a large corporation….
