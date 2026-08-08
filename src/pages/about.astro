@@ -2,57 +2,30 @@
 import Layout from "../layouts/Layout.astro"
 ---
 
-<Layout title="About" description="About Rob Sharp">
-  <div class="about-container">
-    <header class="about-header">
-      <h1 class="about-name">Hi, I'm Rob.</h1>
-      <p class="about-tagline">
-        Engineer, sometime writer, dog owner. Based in Sydney.
-      </p>
-    </header>
+<Layout title="about">
+  <h1>about</h1>
 
-    <div class="about-body">
-      <p>
-        This is my personal blog. It's a rough archive of things I've
-        found interesting since 2005 — technology, music, occasional
-        photos, and a long tail of link posts from an era when everyone
-        had a Delicious account and thought RSS would save the world.
-      </p>
-      <p>
-        The site has been through a few homes: Posterous, then Jekyll,
-        then Gatsby, and now <a href="https://astro.build/">Astro</a>.
-        Every migration has broken something — apologies for any dead
-        images or 404s you find in the older posts.
-      </p>
-      <p>
-        You can find me on the internet as
-        <a href="https://github.com/qnm">@qnm on GitHub</a>. If you want
-        to get in touch, that's probably the fastest way.
-      </p>
-    </div>
-  </div>
+  <p>
+    Hi, I'm Rob. Engineer, sometime writer, dad to four boys and a rabbit. Based in Sydney.
+  </p>
+
+  <p>
+    This is my personal blog. It's a rough archive of things I've found
+    interesting since 2005 — technology, music, occasional photos, and a
+    long tail of link posts from an era when everyone had a Delicious
+    account and thought RSS would save the world.
+  </p>
+
+  <p>
+    The site has been through a few homes: Posterous, then Jekyll, then
+    Gatsby, and now <a href="https://astro.build/">Astro</a>. Every
+    migration has broken something — apologies for any dead images or 404s
+    you find in the older posts.
+  </p>
+
+  <p>
+    You can find me on the internet as
+    <a href="https://github.com/qnm" rel="me">@qnm on GitHub</a>. If you
+    want to get in touch, that's probably the fastest way.
+  </p>
 </Layout>
-
-<style>
-  .about-container {
-    max-width: 720px;
-    margin: 0 auto;
-    padding: 3rem 1.5rem 4rem;
-  }
-  .about-header {
-    margin-bottom: 2.5rem;
-  }
-  .about-name {
-    font-size: 2.5rem;
-    margin: 0 0 0.5rem;
-  }
-  .about-tagline {
-    color: #73737d;
-    font-size: 1.15rem;
-    margin: 0;
-  }
-  .about-body p {
-    line-height: 1.7;
-    margin-bottom: 1.25rem;
-  }
-</style>

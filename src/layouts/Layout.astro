@@ -1,49 +1,58 @@
 ---
+import "@fontsource-variable/jetbrains-mono"
+import "../styles/global.css"
 import Nav from "../components/Nav.astro"
 import Footer from "../components/Footer.astro"
-import "../styles/global.css"
 
 interface Props {
   title: string
   description?: string
 }
 
-const { title, description = "The havers of Rob Sharp" } = Astro.props
-const siteTitle = "Rob Sharp"
+const { title, description = "A rough archive of things I've found interesting since 2005." } = Astro.props
+const siteTitle = "rob sharp"
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="en" class="dark">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
     <meta name="generator" content={Astro.generator} />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="theme-color" content="#1e1e2e" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:creator" content="@qnm" />
-    <title>{title} | {siteTitle}</title>
+    <title>{title === siteTitle ? siteTitle : `${title} — ${siteTitle}`}</title>
+
+    <script is:inline>
+      // Apply saved theme (or prefers-color-scheme) before first paint.
+      ;(function () {
+        try {
+          var saved = localStorage.getItem("theme")
+          var prefersLight =
+            window.matchMedia &&
+            window.matchMedia("(prefers-color-scheme: light)").matches
+          var theme = saved || (prefersLight ? "light" : "dark")
+          var root = document.documentElement
+          root.classList.remove("light", "dark")
+          root.classList.add(theme)
+        } catch (_) {
+          /* no-op */
+        }
+      })()
+    </script>
   </head>
   <body>
     <div class="layout-container">
       <Nav />
-      <div class="page-wrapper">
-        <main>
-          <slot />
-        </main>
-        <Footer />
-      </div>
+      <main>
+        <slot />
+      </main>
+      <Footer />
     </div>
   </body>
 </html>
-
-<style>
-  .page-wrapper {
-    margin: 0 auto;
-    max-width: 1300px;
-    padding-top: 0;
-  }
-</style>

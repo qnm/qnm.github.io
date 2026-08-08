@@ -14,83 +14,46 @@ export async function getStaticPaths() {
 const { post } = Astro.props
 const { Content } = await render(post)
 
-const dateLabel = post.data.date.toLocaleDateString("en-GB", {
-  year: "numeric",
-  month: "long",
-  day: "numeric",
-})
-
+const iso = post.data.date.toISOString().slice(0, 10)
 const isLink = post.data.topic === "link" && !!post.data.link
 const permalink = `/blogs/${post.id.replace(/\.(md|mdx)$/, "")}/`
 ---
 
 <Layout title={post.data.title} description={post.data.subtitle}>
-  <div class="post-page-container">
-    <div class="post-page-flex-container">
-      <div class="post-content-container">
-        {
-          isLink ? (
-            <h1 class="link-post-title">
-              <a href={post.data.link} rel="external noopener">
-                {post.data.title}
-              </a>
-              <a
-                href={permalink}
-                class="permalink"
-                title="Permalink to this post"
-                aria-label="Permalink"
-              >
-                ∞
-              </a>
-            </h1>
-          ) : (
-            <h1>{post.data.title}</h1>
-          )
-        }
-        <h4 class="post-meta">
-          {dateLabel}{post.data.read ? ` — ${post.data.read}` : ""}
-          {
-            isLink && (
-              <>
-                {" — "}
-                <a href={post.data.link} rel="external noopener">
-                  {displayHost(post.data.link!)}
-                </a>
-              </>
-            )
-          }
-        </h4>
-        <Content />
-      </div>
-    </div>
-  </div>
+  <article class="post-content">
+    {
+      isLink ? (
+        <h1 class="link-post-title">
+          <a href={post.data.link} rel="external noopener">
+            {post.data.title}
+          </a>
+          <a
+            href={permalink}
+            class="permalink"
+            title="Permalink to this post"
+            aria-label="Permalink"
+          >
+            ∞
+          </a>
+        </h1>
+      ) : (
+        <h1>{post.data.title}</h1>
+      )
+    }
+    <p class="post-meta">
+      <time datetime={iso}>{iso}</time>
+      {post.data.read ? ` · ${post.data.read}` : ""}
+      {
+        isLink && (
+          <>
+            {" · "}
+            <a href={post.data.link} rel="external noopener">
+              {displayHost(post.data.link!)}
+            </a>
+          </>
+        )
+      }
+    </p>
+    <Content />
+  </article>
 </Layout>
-
-<style>
-  .post-meta {
-    color: rgb(165, 164, 164);
-    font-size: 0.8em;
-    font-weight: normal;
-  }
-  .post-meta a {
-    color: inherit;
-    text-decoration: underline;
-  }
-  .link-post-title a {
-    color: inherit;
-    text-decoration: none;
-  }
-  .link-post-title a:hover {
-    text-decoration: underline;
-  }
-  .link-post-title .permalink {
-    color: #a5a4a4;
-    font-size: 0.7em;
-    margin-left: 0.5rem;
-    text-decoration: none;
-    vertical-align: middle;
-  }
-  .link-post-title .permalink:hover {
-    color: #333;
-  }
-</style>

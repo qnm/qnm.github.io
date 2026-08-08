@@ -1,25 +1,28 @@
 ---
+import ThemeToggle from "./ThemeToggle.astro"
+
 const pathname = Astro.url.pathname
-const isPost = pathname.includes("/blogs/")
+const isPost = pathname.startsWith("/blogs/")
 const isAbout = pathname.startsWith("/about")
 const isArchive = pathname.startsWith("/archive")
 const isHome = !isPost && !isAbout && !isArchive
+
+// Best-effort path label for the prompt line.
+let pathLabel = "~"
+if (isAbout) pathLabel = "~/about"
+else if (isArchive) pathLabel = "~/archive"
+else if (isPost) pathLabel = "~/blogs"
 ---
 
-<div class={isPost ? "post-nav-container" : "nav-container"} id="nav-bar">
-  <a href="/" class="nav-brand">Rob Sharp</a>
-  <ul class="nav-item-container">
-    <li class={isHome ? "nav-item active-link" : "nav-item"} id="nav-home">
-      <a href="/">Home</a>
-      <div class="underline"></div>
-    </li>
-    <li class={isAbout ? "nav-item active-link" : "nav-item"}>
-      <a href="/about/">About</a>
-      <div class="underline"></div>
-    </li>
-    <li class={isArchive ? "nav-item active-link" : "nav-item"}>
-      <a href="/archive/">Archive</a>
-      <div class="underline"></div>
-    </li>
-  </ul>
-</div>
+<header class="site-header">
+  <div class="prompt">
+    <span class="user">qnm</span><span class="sep">:</span><span class="path">{pathLabel}</span><span class="sep">$</span>
+    <span class="cursor">▍</span>
+  </div>
+  <nav class="nav-links" aria-label="Primary">
+    <a href="/" class={isHome ? "active" : ""}>home</a>
+    <a href="/about/" class={isAbout ? "active" : ""}>about</a>
+    <a href="/archive/" class={isArchive ? "active" : ""}>archive</a>
+    <ThemeToggle />
+  </nav>
+</header>

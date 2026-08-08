@@ -1,0 +1,34 @@
+---
+// Renders as a small "mocha" / "latte" pill. Wire-up is inline JS.
+---
+
+<button
+  id="theme-toggle"
+  class="theme-toggle"
+  type="button"
+  aria-label="Toggle theme"
+>
+  <span data-theme-label>mocha</span>
+</button>
+
+<script is:inline>
+  ;(function () {
+    var btn = document.getElementById("theme-toggle")
+    if (!btn) return
+    var label = btn.querySelector("[data-theme-label]")
+    var root = document.documentElement
+    function sync() {
+      var t = root.classList.contains("light") ? "latte" : "mocha"
+      if (label) label.textContent = t
+    }
+    sync()
+    btn.addEventListener("click", function () {
+      var isLight = root.classList.toggle("light")
+      root.classList.toggle("dark", !isLight)
+      try {
+        localStorage.setItem("theme", isLight ? "light" : "dark")
+      } catch (_) {}
+      sync()
+    })
+  })()
+</script>

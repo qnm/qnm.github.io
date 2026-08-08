@@ -4,4 +4,4 @@ date: '2010-03-24'
 topic: archive
 ---
 
-via [Gravity](http://mobileways.de/gravity)
+_(image lost to time)_
