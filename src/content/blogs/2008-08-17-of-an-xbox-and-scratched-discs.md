@@ -2,7 +2,6 @@
 title: Of an Xbox and scratched discs
 date: '2008-08-17'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 If, like me, you have an xbox 360 that occasionally munches your discs, causing graphical artifacts, problems loading etc. then I may have an answer to fixing the discs, at least.

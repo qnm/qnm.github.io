@@ -4,7 +4,6 @@ date: '2009-12-08'
 topic: link
 link: >-
   http://www.informationisbeautiful.net/visualizations/climate-change-deniers-vs-the-consensus/
-image: ../../images/tokyo.jpg
 ---
 
 via [informationisbeautiful.net](http://www.informationisbeautiful.net/visualizations/climate-change-deniers-vs-the-consensus/)

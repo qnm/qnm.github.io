@@ -2,7 +2,6 @@
 title: Socially Engineered Spam
 date: '2006-11-06'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 I often seem to write about spam here, but then again, I do seem to get some goodies... 

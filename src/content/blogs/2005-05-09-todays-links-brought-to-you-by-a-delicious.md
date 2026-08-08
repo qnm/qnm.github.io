@@ -2,7 +2,6 @@
 title: Todays links, brought to you by del.icio.us
 date: '2005-05-09'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 [So, Google has broken your webapp?](http://bitworking.org/news/I_m_sorry__I_can_t_kiss_it_and_make_it_better_)

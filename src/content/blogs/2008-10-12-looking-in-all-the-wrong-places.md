@@ -3,7 +3,6 @@ title: Looking in all the wrong places
 date: '2008-10-12'
 topic: link
 link: http://feeds.feedburner.com/~r/acidlabs/jpct/~3/418376430/
-image: ../../images/tokyo.jpg
 ---
 
 [This story](http://news.bbc.co.uk/2/hi/programmes/click_online/archive/7664070.stm) from the BBC’s Click has me more bemused than anything else.

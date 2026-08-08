@@ -3,7 +3,6 @@ title: Master a perfect inline wire splice everytime
 date: '2009-03-07'
 topic: link
 link: http://www.instructables.com/id/Master_a_perfect_inline_wire_splice_everytime/
-image: ../../images/tokyo.jpg
 ---
 
 In this instructable i will teach you how to make a perfect inline wire splice, every time

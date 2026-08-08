@@ -4,7 +4,6 @@ date: '2009-04-16'
 topic: link
 link: >-
   https://www.open-mesh.com/store/products.php?product=Open%252dMesh-Mini%252dRouter-%28EU%7B47%7DUK%7B47%7DAU-MODEL%29
-image: ../../images/tokyo.jpg
 ---
 
 

@@ -5,7 +5,6 @@ title: >-
 date: '2008-10-23'
 topic: link
 link: http://www.techmeme.com/081021/p83#a081021p83
-image: ../../images/tokyo.jpg
 ---
 
 Charles Wiles / [Google Code Blog](http://google-code-updates.blogspot.com/):

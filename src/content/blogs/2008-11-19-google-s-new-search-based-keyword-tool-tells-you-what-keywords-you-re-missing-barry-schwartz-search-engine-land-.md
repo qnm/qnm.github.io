@@ -5,7 +5,6 @@ title: >-
 date: '2008-11-19'
 topic: link
 link: http://www.techmeme.com/081118/p121#a081118p121
-image: ../../images/tokyo.jpg
 ---
 
 Barry Schwartz / [Search Engine Land](http://searchengineland.com/):

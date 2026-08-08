@@ -4,7 +4,6 @@ date: '2008-11-20'
 topic: link
 link: >-
   http://www.smh.com.au/news/technology/web/heat-rises-over-uks-web-map-of-bnp-members/2008/11/20/1226770602625.html
-image: ../../images/tokyo.jpg
 ---
 
 Right-wing extremists across Britain are bracing for violent repercussions after the British National Party’s entire membership list was leaked on the internet. Ironically, the BNP is relying on…

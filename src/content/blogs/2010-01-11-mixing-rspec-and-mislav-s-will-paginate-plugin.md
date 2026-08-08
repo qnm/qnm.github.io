@@ -2,7 +2,6 @@
 title: Mixing rspec and mislav's will_paginate plugin
 date: '2010-01-11'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 I didn't find the solution to using will\_paginate in rpsec'd views anywhere, so here it is for anyone else searching for the same.

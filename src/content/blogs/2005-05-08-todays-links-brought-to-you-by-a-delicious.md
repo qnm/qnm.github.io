@@ -2,7 +2,6 @@
 title: Todays links, brought to you by del.icio.us
 date: '2005-05-08'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 [CSS Compressor](http://cssc.darkriftstudios.com/)

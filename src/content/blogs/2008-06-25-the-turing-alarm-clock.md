@@ -2,7 +2,6 @@
 title: The Turing Alarm Clock
 date: '2008-06-25'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 This is incredibly nerdy and brilliant at the same time:

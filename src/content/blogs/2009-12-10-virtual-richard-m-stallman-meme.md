@@ -2,7 +2,6 @@
 title: Virtual Richard M. Stallman Meme
 date: '2009-12-10'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 Joining in… [Planet Ubuntu](http://planet.ubuntu.com/) Virtual Richard M. Stallman meme

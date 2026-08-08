@@ -4,7 +4,6 @@ date: '2009-02-15'
 topic: link
 link: >-
   http://www.noupe.com/css/5-popular-css-frameworks-tutorials-tools-for-getting-started.html
-image: ../../images/tokyo.jpg
 ---
 
 

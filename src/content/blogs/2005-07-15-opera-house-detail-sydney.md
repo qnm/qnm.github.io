@@ -2,7 +2,6 @@
 title: Opera House Detail, Sydney
 date: '2005-07-15'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 [![F1000003](http://photos11.flickr.com/16196749_971cc32dc7_t.jpg)](http://www.flickr.com/photos/quannum/16196749/ "photo sharing")

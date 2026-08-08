@@ -3,7 +3,6 @@ title: JS-Kit, the widget company for dummies, gets boost (Matt Marshall/Venture
 date: '2008-10-15'
 topic: link
 link: http://www.techmeme.com/081014/p58#a081014p58
-image: ../../images/tokyo.jpg
 ---
 
 Matt Marshall / [VentureBeat](http://venturebeat.com/):

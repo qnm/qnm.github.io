@@ -2,7 +2,6 @@
 title: '[Rails] Using ssl/tls with ActionMailer (gmail)'
 date: '2008-07-16'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 [drawohara](http://drawohara.com/post/37908300/rails-using-ssl-tls-with-actionmailer-gmail):

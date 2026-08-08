@@ -4,7 +4,6 @@ date: '2009-03-05'
 topic: link
 link: >-
   http://feedproxy.google.com/~r/typepad/sethsmainblog/~3/917lTImQovM/the-two-elements-of-a-great-presenter.html
-image: ../../images/tokyo.jpg
 ---
 
 1\. Respect (_from_ the audience)

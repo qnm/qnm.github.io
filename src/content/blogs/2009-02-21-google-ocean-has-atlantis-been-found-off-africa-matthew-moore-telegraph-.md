@@ -3,7 +3,6 @@ title: 'Google Ocean: Has Atlantis been found off Africa? (Matthew Moore/Telegra
 date: '2009-02-21'
 topic: link
 link: http://www.techmeme.com/090220/p41#a090220p41
-image: ../../images/tokyo.jpg
 ---
 
 Matthew Moore / [Telegraph](http://www.telegraph.co.uk/):

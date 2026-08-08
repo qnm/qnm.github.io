@@ -6,7 +6,6 @@ date: '2009-03-27'
 topic: link
 link: >-
   http://www.reddit.com/r/programming/comments/87moj/how_to_quickly_test_the_performance_and/
-image: ../../images/tokyo.jpg
 ---
 
 submitted by [BeeBole](http://www.reddit.com/user/BeeBole)

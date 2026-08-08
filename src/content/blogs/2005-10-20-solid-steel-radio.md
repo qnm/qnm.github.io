@@ -2,7 +2,6 @@
 title: Solid Steel Radio
 date: '2005-10-20'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 I've recently rediscovered the joy of radio, [Solid Steel Radio](http://www.ninjatune.net/solidsteel/) in particular. That show is tremendous!!

@@ -2,7 +2,6 @@
 title: Happy New Year!
 date: '2006-01-01'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 [![NYE 2006 103](http://static.flickr.com/38/80047340_7f6f55eac2_t.jpg)](http://www.flickr.com/photos/quannum/80047340/ "photo sharing")

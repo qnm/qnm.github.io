@@ -4,7 +4,6 @@ date: '2008-11-03'
 topic: link
 link: >-
   http://feeds.treehugger.com/~r/treehuggersite/~3/440134492/e-waste-generated-shift-high-definition-television.php
-image: ../../images/tokyo.jpg
 ---
 
 A recent [Business Week article](http://www.businessweek.com/magazine/content/08_43/b4105000160974.htm?chan=top+news_%20%20top+news+index+-+temp_news+%2B+analysis) points out that “**Next year the volume of e-waste will probably surge. In February, U.S. consumers must switch from analog to digital television service, a move…**

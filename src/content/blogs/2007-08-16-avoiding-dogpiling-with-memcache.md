@@ -2,7 +2,6 @@
 title: Avoiding Dogpiling with Memcache
 date: '2007-08-16'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 To be honest, I've only heard the term 'Dogpiling' in this context once before - it makes me think of a search engine I used many moons ago. Anyway, dogpiling is the messy situation you end up in when your cache expires and the time it takes for the cache rebuilt takes longer to generate than your server is answering requests per second.

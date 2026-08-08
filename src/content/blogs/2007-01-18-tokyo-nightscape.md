@@ -2,7 +2,6 @@
 title: Tokyo Nightscape
 date: '2007-01-18'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 [![Tokyo Nightscape](http://farm1.static.flickr.com/137/322152193_f1ab23b927_t.jpg)](http://www.flickr.com/photos/altus/322152193/ "photo sharing")

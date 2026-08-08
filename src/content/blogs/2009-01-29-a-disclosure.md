@@ -3,7 +3,6 @@ title: A Disclosure
 date: '2009-01-29'
 topic: link
 link: http://www.randsinrepose.com/archives/2009/01/25/a_disclosure.html
-image: ../../images/tokyo.jpg
 ---
 
 > Shared by Rob Sharp

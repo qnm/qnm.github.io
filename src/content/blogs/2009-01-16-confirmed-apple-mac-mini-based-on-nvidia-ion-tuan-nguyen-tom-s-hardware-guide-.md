@@ -5,7 +5,6 @@ title: >-
 date: '2009-01-16'
 topic: link
 link: http://www.techmeme.com/090115/p103#a090115p103
-image: ../../images/tokyo.jpg
 ---
 
 Tuan Nguyen / [Tom’s Hardware Guide](http://www.tomshardware.com/):

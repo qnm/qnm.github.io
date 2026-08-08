@@ -6,7 +6,6 @@ date: '2008-11-27'
 topic: link
 link: >-
   http://feeds.boingboing.net/~r/boingboing/iBag/~3/467010451/defective-by-designs.html
-image: ../../images/tokyo.jpg
 ---
 
 Peter from the Free Software Foundation sez,

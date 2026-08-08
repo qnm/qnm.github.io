@@ -5,7 +5,6 @@ subtitle: >-
   time.
 date: '2012-10-16'
 categories: rails, engines
-image: ../../images/tokyo.jpg
 ---
 
 I've been building a Rails 3.2 engine, and when I created it, chose the 'mountable' option, rather than the full option.

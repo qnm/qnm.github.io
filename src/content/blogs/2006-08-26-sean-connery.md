@@ -2,7 +2,6 @@
 title: Sean Connery
 date: '2006-08-26'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 I got an email from Sean Connery the other day.

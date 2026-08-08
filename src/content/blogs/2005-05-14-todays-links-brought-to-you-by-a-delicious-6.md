@@ -2,7 +2,6 @@
 title: Todays links, brought to you by del.icio.us
 date: '2005-05-14'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 [CSS Optimiser](http://cdburnerxp.se/cssparse/css_optimiser.php)

@@ -4,7 +4,6 @@ title: >-
   awareness.
 date: '2009-10-20'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 via [Gravity](http://mobileways.de/gravity)

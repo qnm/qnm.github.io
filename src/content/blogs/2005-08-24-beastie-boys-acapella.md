@@ -2,7 +2,6 @@
 title: Beastie Boys Acapella
 date: '2005-08-24'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 Hot on the heels of other recent mashups and bootlegs such as DJ Dangermouse/The Grey Album, the Beastie Boys have released a load of mp3's of their acapellas.

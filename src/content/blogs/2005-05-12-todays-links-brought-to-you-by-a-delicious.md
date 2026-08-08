@@ -2,7 +2,6 @@
 title: Todays links, brought to you by del.icio.us
 date: '2005-05-12'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 [JSPAN - RPC for PHP using Javascript](http://jpspan.sourceforge.net/wiki/doku.php)

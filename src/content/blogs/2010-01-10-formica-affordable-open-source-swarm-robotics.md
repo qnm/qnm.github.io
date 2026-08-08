@@ -3,7 +3,6 @@ title: 'Formica: Affordable, open source swarm robotics'
 date: '2010-01-10'
 topic: link
 link: http://warrantyvoidifremoved.com/formica
-image: ../../images/tokyo.jpg
 ---
 
 via [warrantyvoidifremoved.com](http://warrantyvoidifremoved.com/formica)

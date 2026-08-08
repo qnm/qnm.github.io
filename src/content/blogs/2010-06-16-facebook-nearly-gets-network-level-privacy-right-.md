@@ -3,7 +3,6 @@ title: Facebook nearly gets network-level privacy right
 date: '2010-06-16'
 topic: link
 link: http://www.flickr.com/photos/quannum/4705606619/
-image: ../../images/tokyo.jpg
 ---
 
 via [flickr.com](http://www.flickr.com/photos/quannum/4705606619/)

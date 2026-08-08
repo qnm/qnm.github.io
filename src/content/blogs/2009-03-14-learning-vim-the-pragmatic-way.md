@@ -4,7 +4,6 @@ date: '2009-03-14'
 topic: link
 link: >-
   http://www.reddit.com/r/programming/comments/84a6c/learning_vim_the_pragmatic_way/
-image: ../../images/tokyo.jpg
 ---
 
 submitted by [eric\_monti](http://www.reddit.com/user/eric_monti)

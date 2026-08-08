@@ -4,7 +4,6 @@ date: '2009-04-01'
 topic: link
 link: >-
   http://feeds.boingboing.net/~r/boingboing/iBag/~3/w18v0RyjMR8/little-red-riding-ho.html
-image: ../../images/tokyo.jpg
 ---
 
 Tomas Nilsson created this animation as a school assignment. It is an interpretation of Little Red Riding Hood with music by [Slagsmålsklubben](http://www.google.com/url?sa=U&start=1&q=http://www.myspace.com/slagsmalsklubben&ei=XbfSSfTCAof-swOc3JjcCQ&usg=AFQjCNHRqrcyN2u7sMRpckCGDp8RN9Hviw). He was inspired by the music video for…

@@ -2,7 +2,6 @@
 title: Tumblr Code Syntax Highlighting
 date: '2008-06-26'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 function foo() {

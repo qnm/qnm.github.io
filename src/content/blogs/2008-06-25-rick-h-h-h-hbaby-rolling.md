@@ -2,7 +2,6 @@
 title: Rick^H^H^H^HBaby Rolling
 date: '2008-06-25'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 Recently, my wee lad has discovered the ability to roll from his back to front, and is just about strong enough to hold himself up. This is good. What isn’t so great is that he’s not yet worked out how to roll from his front to back.

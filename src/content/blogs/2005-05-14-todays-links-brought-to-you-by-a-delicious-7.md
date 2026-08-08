@@ -2,7 +2,6 @@
 title: Todays links, brought to you by del.icio.us
 date: '2005-05-14'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 [The Official String Theory Web Site](http://superstringtheory.com/)

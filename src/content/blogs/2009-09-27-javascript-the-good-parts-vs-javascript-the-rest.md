@@ -3,7 +3,6 @@ title: 'Javascript: The Good Parts vs Javascript: The Rest'
 date: '2009-09-27'
 topic: link
 link: http://imgur.com/RzRcw.jpg
-image: ../../images/tokyo.jpg
 ---
 
 via [imgur.com](http://imgur.com/RzRcw.jpg)

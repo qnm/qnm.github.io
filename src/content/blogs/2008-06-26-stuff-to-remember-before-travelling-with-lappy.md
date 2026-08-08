@@ -2,7 +2,6 @@
 title: Stuff to remember before travelling with lappy
 date: '2008-06-26'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 \- Back up with Time Machine

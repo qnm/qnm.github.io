@@ -5,7 +5,6 @@ title: >-
 date: '2009-03-01'
 topic: link
 link: http://msdn.microsoft.com/en-us/magazine/dd188562.aspx
-image: ../../images/tokyo.jpg
 ---
 
 

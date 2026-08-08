@@ -6,17 +6,15 @@ const blog = defineCollection({
     pattern: ["**/*.md"],
     base: "./src/content/blogs",
   }),
-  schema: ({ image }) =>
-    z.object({
-      title: z.string(),
-      subtitle: z.string().optional(),
-      date: z.coerce.date(),
-      read: z.string().optional(),
-      topic: z.string().optional(),
-      categories: z.string().optional(),
-      link: z.string().url().optional(),
-      image: image().optional(),
-    }),
+  schema: z.object({
+    title: z.string(),
+    subtitle: z.string().optional(),
+    date: z.coerce.date(),
+    read: z.string().optional(),
+    topic: z.string().optional(),
+    categories: z.string().optional(),
+    link: z.string().url().optional(),
+  }),
 })
 
 export const collections = { blog }

@@ -3,7 +3,6 @@ title: New Beginnings
 subtitle: Let the Jekyll migration begin
 date: '2011-02-25'
 categories: personal
-image: ../../images/tokyo.jpg
 ---
 
 New Beginnings

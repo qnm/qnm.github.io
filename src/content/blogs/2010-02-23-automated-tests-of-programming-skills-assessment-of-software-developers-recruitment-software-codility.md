@@ -5,7 +5,6 @@ title: >-
 date: '2010-02-23'
 topic: link
 link: http://codility.com/
-image: ../../images/tokyo.jpg
 ---
 
 via [codility.com](http://codility.com/)

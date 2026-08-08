@@ -4,7 +4,6 @@ date: '2009-01-14'
 topic: link
 link: >-
   http://feeds.feedburner.com/~r/oreilly/radar/atom/~3/511680039/four-short-links-13-jan-2009.html
-image: ../../images/tokyo.jpg
 ---
 
 Apologies for the delay. Just remember Douglas Adams’s great line: “Time is an illusion. Lunchtime doubly so.”

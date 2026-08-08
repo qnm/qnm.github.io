@@ -5,7 +5,6 @@ title: >-
 date: '2009-02-25'
 topic: link
 link: http://www.boingboing.net/2009/02/24/bruce-sterlings-the.html
-image: ../../images/tokyo.jpg
 ---
 
 Bruce Sterling’s [The Caryatids](http://www.amazon.com/exec/obidos/ASIN/0345460626/downandoutint-20) comes out today and it’s a book I’ve been waiting six months to tell you about, ever since I finished the galleys in August. This is it, my book of the year for…

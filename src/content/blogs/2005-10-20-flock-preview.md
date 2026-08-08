@@ -2,7 +2,6 @@
 title: Flock Preview
 date: '2005-10-20'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 It looks like the blogging section of [Flock](http://flock.com) is now working, as I'm sending this from inside Flock! I downloaded the Developers Preview this morning, and so far everything has been really nice.

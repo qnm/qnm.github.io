@@ -4,7 +4,6 @@ date: '2008-10-16'
 topic: link
 link: >-
   http://feeds.boingboing.net/~r/boingboing/iBag/~3/422197149/australias-great-fir.html
-image: ../../images/tokyo.jpg
 ---
 
 Andy sez,

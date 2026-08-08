@@ -3,7 +3,6 @@ title: Giving Valve Games That Special Apple Touch
 date: '2010-05-06'
 topic: link
 link: http://www.wired.com/underwire/2010/05/alt-text-valve-apple/
-image: ../../images/tokyo.jpg
 ---
 
 via [wired.com](http://www.wired.com/underwire/2010/05/alt-text-valve-apple/)

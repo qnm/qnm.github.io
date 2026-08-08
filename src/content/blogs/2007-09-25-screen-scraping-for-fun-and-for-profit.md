@@ -2,7 +2,6 @@
 title: Screen Scraping for Fun and For Profit
 date: '2007-09-25'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 I love coding in Ruby. It's a nice language to work in, but more often than not there's a gem or plugin that implements common problems. If I had tackled my [131500](http://www.131500.info)\-bot in my native tongue of PHP, it would no doubt have taken a lot longer than the 50-or-so lines of code this baby has. The ease of feedbot creation was facilitated by the excellent [Scrubyt](http://scrubyt.org/) gem, which makes scraping so damn easy!

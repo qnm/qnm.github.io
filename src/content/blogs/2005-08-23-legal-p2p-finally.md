@@ -2,7 +2,6 @@
 title: Legal P2P, Finally...
 date: '2005-08-23'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 [Boing Boing](http://boingboing.net) and [EFF](http://eff.org) 'Outreach Coordinator' [Cory Doctorow reports](http://www.boingboing.net/2005/08/22/customers_of_new_uk_.html) that a UK ISP, [PlayLouder](http://www.playloudermsp.com/), have struck an agreement with Sony-BMG to "legally share any song in the Sony-BMG catalog with any other PlayLouder MSP customer, and to download these tracks from any ISP customer in the entire world." The ISP is using 'audio-analysis software provided by Audible Magic to analyze the P2P traffic that it can detect on its network and count approximately how many times each track is traded, and will deliver that, along with a cut of its revenue, to Sony.' Additionally 'they will not be stopping any tracks that Audible Magic fails to recognize, nor will they be resticting traffic using unrecognized protocols.' Sounds pretty good to me. Importantly, the file sharing is allowed in any format, and includes deleted material, so your files need not be hampered by any of that DRM nonsense. +1 for a decent licensing model that keeps customers happy, also makes money.

@@ -2,7 +2,6 @@
 title: Todays links, brought to you by del.icio.us
 date: '2005-06-17'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 [ITunes streaming to your mobile phone](http://plasticbugs.com/index.php?p=267)

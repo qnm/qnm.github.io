@@ -5,7 +5,6 @@ title: >-
 date: '2008-07-16'
 topic: link
 link: http://adeona.cs.washington.edu/
-image: ../../images/tokyo.jpg
 ---
 
 

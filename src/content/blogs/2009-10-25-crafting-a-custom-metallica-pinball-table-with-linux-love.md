@@ -4,7 +4,6 @@ date: '2009-10-25'
 topic: link
 link: >-
   http://arstechnica.com/gaming/news/2009/10/metal-on-metal-behind-the-scenes-on-a-custom-pinball-game.ars
-image: ../../images/tokyo.jpg
 ---
 
 via [arstechnica.com](http://arstechnica.com/gaming/news/2009/10/metal-on-metal-behind-the-scenes-on-a-custom-pinball-game.ars)

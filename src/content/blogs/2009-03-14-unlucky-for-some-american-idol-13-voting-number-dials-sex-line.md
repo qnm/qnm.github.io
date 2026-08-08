@@ -3,7 +3,6 @@ title: 'Unlucky for some: American Idol 13 voting number dials sex line'
 date: '2009-03-14'
 topic: link
 link: http://feedproxy.google.com/~r/Inquisitr/~3/ZwmU39WzDYs/
-image: ../../images/tokyo.jpg
 ---
 
 > Shared by Alegrya

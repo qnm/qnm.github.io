@@ -3,7 +3,6 @@ title: 3 Mistakes Your Subcontractors Might Make and How to Prevent Them
 date: '2009-03-07'
 topic: link
 link: http://feedproxy.google.com/~r/Webworkerdaily/~3/CgD3JPDpBlk/
-image: ../../images/tokyo.jpg
 ---
 
 _Written by [Celine Roque](http://webworkerdaily.com/author/celinus/)._

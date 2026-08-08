@@ -2,7 +2,6 @@
 title: Todays links, brought to you by del.icio.us
 date: '2005-05-17'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 [Who Makes Movies?](http://r4nt.com/v5/article/120/)

@@ -2,7 +2,6 @@
 title: Mock Chop using PHP and Simpletest
 date: '2007-06-18'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 One of my reservations about adopting Unit Testing as a standard for my team was that, despite being pretty good developers, a fair amount of our code ends up being coupled. Recently I decided to dive in head-first to [Test Driven Development](http://en.wikipedia.org/wiki/Test-driven_development) (TDD to his friends) to see if building a greenfield project test-first would alleviate our tendency to couple code. Our shop develops in PHP, so the [Simpletest](http://www.lastcraft.com/simple_test.php) library was chosen to provide a Unit Test framework. Another developer and I sat down and coded the first few requirements of this new project, and successfully created a number of methods that could be unit-tested without requiring to be coupled to any other classes. The problem arose when implementing a facade. The method we' d written looked a little like this:

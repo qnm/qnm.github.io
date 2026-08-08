@@ -6,7 +6,6 @@ date: '2009-03-25'
 topic: link
 link: >-
   http://wiki.forum.nokia.com/index.php/Bringing_REST_architecture_to_S60_devices_with_Python:_a_guided_tutorial_using_Twitter_API
-image: ../../images/tokyo.jpg
 ---
 
 

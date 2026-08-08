@@ -1,6 +1,5 @@
 ---
 import { getCollection, render } from "astro:content"
-import { Image } from "astro:assets"
 import Layout from "../../layouts/Layout.astro"
 import { displayHost } from "../../lib/link"
 
@@ -28,18 +27,6 @@ const permalink = `/blogs/${post.id.replace(/\.(md|mdx)$/, "")}/`
 <Layout title={post.data.title} description={post.data.subtitle}>
   <div class="post-page-container">
     <div class="post-page-flex-container">
-      {
-        post.data.image && !isLink && (
-          <div class="post-image-container">
-            <Image
-              class="post-image"
-              src={post.data.image}
-              alt={post.data.title}
-              width={1200}
-            />
-          </div>
-        )
-      }
       <div class="post-content-container">
         {
           isLink ? (

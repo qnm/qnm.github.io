@@ -2,7 +2,6 @@
 title: BarCamp 3 coming soon!
 date: '2008-06-25'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 Hello Campers!

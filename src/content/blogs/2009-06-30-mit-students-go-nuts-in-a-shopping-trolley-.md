@@ -2,7 +2,6 @@
 title: MIT students go nuts in a shopping trolley.
 date: '2009-06-30'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 via [gizmodo](http://www.gizmodo.com.au/2009/06/mit-students-build-a-speedy-go-kart-out-of-a-shopping-cart/) “When you were in college, you spent your free time drinking tallboys of Bud Ice and playing Mario Kart 64 until 5am. These MIT students, on the other hand, built a shopping cart go-kart cart and dubbed it the LOLriokart.

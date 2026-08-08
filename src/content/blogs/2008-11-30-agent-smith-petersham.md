@@ -2,7 +2,6 @@
 title: Agent Smith, Petersham
 date: '2008-11-30'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 [![](http://farm4.static.flickr.com/3213/3066889013_6e4ecb09db.jpg)](http://www.flickr.com/photos/wadem/3066889013/)

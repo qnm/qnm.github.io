@@ -4,7 +4,6 @@ date: '2009-03-16'
 topic: link
 link: >-
   http://feeds.boingboing.net/~r/boingboing/iBag/~3/qFB6eRuGBpY/space-junks-threat.html
-image: ../../images/tokyo.jpg
 ---
 
 [_Dan Gillmor_](http://dangillmor.com/) _is a BoingBoing guest-blogger._

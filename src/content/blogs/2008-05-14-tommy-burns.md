@@ -2,7 +2,6 @@
 title: Tommy Burns
 date: '2008-05-14'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 An item on my news feed and a text from my Dad confirmed that football legend has Tommy Burns passed away.

@@ -2,7 +2,6 @@
 title: Steve Irwin stencil
 date: '2006-12-07'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 [![steve irwin stencil](http://static.flickr.com/107/315898735_b1b4489d20_t.jpg)](http://www.flickr.com/photos/deryckwallace/315898735/ "photo sharing")

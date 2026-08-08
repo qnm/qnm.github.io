@@ -2,7 +2,6 @@
 title: Uefa Cup final awarded to Hampden
 date: '2007-04-27'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 In fantastic news for Scottish football, [Hampden](http://en.wikipedia.org/wiki/Hampden_Park) (the Scottish national stadium) has been afforded the honour of hosting the 2007 [UEFA Cup](http://en.wikipedia.org/wiki/UEFA_Cup) final. From the [bbc](http://news.bbc.co.uk/sport/):

@@ -2,7 +2,6 @@
 title: Ebay Facts
 date: '2005-06-30'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 I'm a bit of a fan of [ebay](http://www.ebay.com.au), but [this article](http://www.fortune.com/fortune/articles/0,15114,704026,00.html) on Fortune has some interesting facts on Ebay. Did you know...

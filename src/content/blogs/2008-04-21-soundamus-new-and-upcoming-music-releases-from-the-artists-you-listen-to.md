@@ -3,7 +3,6 @@ title: soundamus - new and upcoming music releases from the artists you listen t
 date: '2008-04-21'
 topic: link
 link: http://www.soundamus.net/
-image: ../../images/tokyo.jpg
 ---
 
 Find new albums from the artists you love using Soundamus.

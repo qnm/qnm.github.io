@@ -3,7 +3,6 @@ title: MIT's Great Dome Rick Rolled
 date: '2009-09-15'
 topic: link
 link: http://tech.mit.edu/V129/N35/graphics/notehack.html
-image: ../../images/tokyo.jpg
 ---
 
 via [tech.mit.edu](http://tech.mit.edu/V129/N35/graphics/notehack.html)

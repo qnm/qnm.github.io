@@ -5,7 +5,6 @@ title: >-
 date: '2008-10-15'
 topic: link
 link: http://www.techmeme.com/081014/p92#a081014p92
-image: ../../images/tokyo.jpg
 ---
 
 Eric Eldon / [VentureBeat](http://venturebeat.com/):

@@ -2,7 +2,6 @@
 title: Community wireless for the rest of us
 date: '2007-07-01'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 I'm pretty interested in community wireless projects, and recently I've been looking into setups such as [meraki](http://www.meraki.com) and [fon](http://www.fon.com). Both of these systems have merit, but the barrier to entry is the same for both - you must use hardware to make the community happen.

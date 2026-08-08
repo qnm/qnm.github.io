@@ -4,7 +4,6 @@ date: '2008-10-19'
 topic: link
 link: >-
   http://feeds.boingboing.net/~r/boingboing/iBag/~3/424272844/the-atlantics-jeffre.html
-image: ../../images/tokyo.jpg
 ---
 
 Mirthful story in the November 2008 issue of _The Atlantic_.

@@ -4,7 +4,6 @@ date: '2009-03-11'
 topic: link
 link: >-
   http://feeds.lifehacker.com.au/~r/LifehackerAustralia/~3/PlwDPzRPHwE/the_stephen_fry_media_twitter_conspiracy.html
-image: ../../images/tokyo.jpg
 ---
 
 ![](http://www.lifehacker.com.au/Stephen_Fry.jpg)

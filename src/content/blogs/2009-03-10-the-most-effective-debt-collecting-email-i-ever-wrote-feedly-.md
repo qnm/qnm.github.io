@@ -4,7 +4,6 @@ date: '2009-03-10'
 topic: link
 link: >-
   http://forabeautifulweb.com/blog/about/the_most_effective_debt_collecting_email_i_ever_wrote/#When
-image: ../../images/tokyo.jpg
 ---
 
 :21:21:03Z

@@ -2,7 +2,6 @@
 title: Running multiple versions of Ruby on Ubuntu Karmic
 date: '2009-09-01'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 UPDATED: For dev, you could also use Ruby Version Manager <http://rvm.beginrescueend.com/>

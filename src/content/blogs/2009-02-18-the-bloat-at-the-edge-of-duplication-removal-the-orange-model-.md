@@ -4,7 +4,6 @@ date: '2009-02-18'
 topic: link
 link: >-
   http://blog.objectmentor.com/articles/2009/02/17/the-bloat-at-the-edge-of-duplication-removal-the-orange-model
-image: ../../images/tokyo.jpg
 ---
 
 > Shared by Rob Sharp

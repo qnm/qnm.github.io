@@ -4,7 +4,6 @@ date: '2009-02-13'
 topic: link
 link: >-
   http://startuplessonslearned.blogspot.com/2009/02/continuous-deployment-and-continuous.html
-image: ../../images/tokyo.jpg
 ---
 
 

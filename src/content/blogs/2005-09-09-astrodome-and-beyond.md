@@ -2,7 +2,6 @@
 title: Astrodome and beyond
 date: '2005-09-09'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 [![Astrodome and beyond](http://static.flickr.com/24/41277478_00b76da918_t.jpg)](http://www.flickr.com/photos/ioerror/41277478/ "photo sharing") [Astrodome and beyond](http://www.flickr.com/photos/ioerror/41277478/),

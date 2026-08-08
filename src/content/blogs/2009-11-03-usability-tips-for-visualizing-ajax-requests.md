@@ -4,7 +4,6 @@ date: '2009-11-03'
 topic: link
 link: >-
   http://www.jankoatwarpspeed.com/post/2009/11/01/usability-tips-visualizing-ajax-requests.aspx
-image: ../../images/tokyo.jpg
 ---
 
 via [jankoatwarpspeed.com](http://www.jankoatwarpspeed.com/post/2009/11/01/usability-tips-visualizing-ajax-requests.aspx)

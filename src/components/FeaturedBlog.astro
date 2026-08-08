@@ -1,5 +1,4 @@
 ---
-import { Image } from "astro:assets"
 import type { CollectionEntry } from "astro:content"
 
 interface Props {
@@ -18,14 +17,6 @@ const featured = posts.filter((p) => p.data.topic === "feature")
         style="text-decoration: none; color: inherit;"
       >
         <div class="featured-blog-card">
-          {post.data.image && (
-            <Image
-              class="featured-blog-thumbnail"
-              src={post.data.image}
-              alt={post.data.title}
-              width={1200}
-            />
-          )}
           <div class="featured-blog-description">
             <h3 class="featured-blog-title">{post.data.title}</h3>
             <p class="featured-blog-excerpt">{post.data.subtitle ?? ""}</p>

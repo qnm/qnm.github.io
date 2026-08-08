@@ -3,7 +3,6 @@ title: Frets On Fire
 date: '2007-11-28'
 topic: link
 link: http://fretsonfire.sourceforge.net/
-image: ../../images/tokyo.jpg
 ---
 
 

@@ -4,7 +4,6 @@ date: '2009-02-26'
 topic: link
 link: >-
   http://feedproxy.google.com/~r/startup/lessons/learned/~3/nm6mSC_ix5c/lean-startup-at-uc-berkeley-haas-school.html
-image: ../../images/tokyo.jpg
 ---
 
 Image by [Jessica\_Mah](http://www.flickr.com/photos/7193045@N03/878994097) via Flickr

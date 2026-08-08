@@ -2,7 +2,6 @@
 title: Silent dance party breaks out in city
 date: '2007-09-28'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 A DANCE party broke out on the normally sober steps of Sydney's Town Hall during evening peak hour but for bemused onlookers there was no music to be heard.

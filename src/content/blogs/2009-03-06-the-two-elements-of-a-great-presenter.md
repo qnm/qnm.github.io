@@ -4,7 +4,6 @@ date: '2009-03-06'
 topic: link
 link: >-
   http://sethgodin.typepad.com/seths_blog/2009/03/the-two-elements-of-a-great-presenter.html
-image: ../../images/tokyo.jpg
 ---
 
 1\. Respect (_from_ the audience)

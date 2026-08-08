@@ -2,7 +2,6 @@
 title: Shhuave and Shhophisticated
 date: '2007-02-13'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 **You are Sean Connery**

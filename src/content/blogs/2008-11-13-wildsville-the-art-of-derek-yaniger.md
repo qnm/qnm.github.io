@@ -4,7 +4,6 @@ date: '2008-11-13'
 topic: link
 link: >-
   http://feeds.boingboing.net/~r/boingboing/iBag/~3/450996767/wildsville-the-art-o.html
-image: ../../images/tokyo.jpg
 ---
 
 Illustrator Derek Yaniger has a book of his illustrations called _Wildsville_.

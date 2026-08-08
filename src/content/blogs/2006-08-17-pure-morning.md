@@ -2,7 +2,6 @@
 title: Pure morning
 date: '2006-08-17'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 [![Pure morning](http://static.flickr.com/78/217118183_38e69b1550_t.jpg)](http://www.flickr.com/photos/quannum/217118183/ "photo sharing")

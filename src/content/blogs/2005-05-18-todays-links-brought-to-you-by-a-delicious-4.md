@@ -2,7 +2,6 @@
 title: Todays links, brought to you by del.icio.us
 date: '2005-05-18'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 [Gigabyte Silent Pipe Nvidia 6600 GT - Fits the Shuttle](http://forums.sudhian.com/messageview.aspx?catid=43&threadid=75791&highlight_key=y&keyword1=6600gt)

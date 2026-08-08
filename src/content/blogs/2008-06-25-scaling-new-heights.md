@@ -2,7 +2,6 @@
 title: Scaling new heights
 date: '2008-06-25'
 topic: archive
-image: ../../images/tokyo.jpg
 ---
 
 No doubt due to the [recent departure of Twitter engo Blaine Cook](http://www.alleyinsider.com/2008/4/lead_architect_blaine_cook_out_at_twitter) theres been a glut of posts about scaling web apps.

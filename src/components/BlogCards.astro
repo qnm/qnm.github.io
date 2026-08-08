@@ -1,5 +1,4 @@
 ---
-import { Image } from "astro:assets"
 import type { CollectionEntry } from "astro:content"
 import { displayHost } from "../lib/link"
 
@@ -33,14 +32,6 @@ const fmt = (d: Date) =>
           class:list={["blog-card-link", { "is-link-post": isLink }]}
         >
           <div class="blog-card">
-            {post.data.image && !isLink && (
-              <Image
-                class="blog-thumbnail"
-                src={post.data.image}
-                alt={post.data.title}
-                width={630}
-              />
-            )}
             <div class="blog-description">
               <p class="blog-date-topic">
                 {fmt(post.data.date)} &nbsp;&nbsp; ———— &nbsp;&nbsp;
