@@ -1,7 +1,6 @@
 ---
 title: Using Gatsby with Github Pages and Actions
 date: '2019-04-30'
-topic: feature
 read: 1 min read
 ---
 
