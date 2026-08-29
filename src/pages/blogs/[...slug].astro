@@ -15,8 +15,12 @@ const { post } = Astro.props
 const { Content } = await render(post)
 
 const iso = post.data.date.toISOString().slice(0, 10)
-const isLink = post.data.topic === "link" && !!post.data.link
+const isHighlight = post.data.topic === "highlight"
+const isLink = (post.data.topic === "link" || isHighlight) && !!post.data.link
 const permalink = `/blogs/${post.id.replace(/\.(md|mdx)$/, "")}/`
+const nostrRef = post.data.nostr ?? post.data.nostrId
+const nostrUrl = nostrRef ? `https://njump.me/${nostrRef}` : null
+const nostrLabel = isHighlight ? "highlighted on nostr" : "shared on nostr"
 ---
 
 <Layout
@@ -53,6 +57,16 @@ const permalink = `/blogs/${post.id.replace(/\.(md|mdx)$/, "")}/`
             {" · "}
             <a href={post.data.link} rel="external noopener">
               {displayHost(post.data.link!)}
+            </a>
+          </>
+        )
+      }
+      {
+        nostrUrl && (
+          <>
+            {" · "}
+            <a href={nostrUrl} rel="external noopener">
+              {nostrLabel}
             </a>
           </>
         )

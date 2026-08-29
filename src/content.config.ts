@@ -16,6 +16,13 @@ const blog = defineCollection({
     link: z.string().url().optional(),
     canonical: z.string().url().optional(),
     draft: z.boolean().optional(),
+    tags: z.array(z.string()).optional(),
+    // Nostr provenance for imported highlights (kind 9802).
+    nostr: z.string().optional(), // nevent1… (nip-19 encoded event pointer)
+    nostrId: z.string().optional(), // raw hex event id
+    nostrAuthor: z.string().optional(), // npub1…
+    nostrKind: z.number().optional(),
+    comment: z.string().optional(), // highlighter's own note, if any
   }),
 })
 
