@@ -1,5 +1,5 @@
 ---
-import { getCollection } from "astro:content"
+import { getCollection, render } from "astro:content"
 import Layout from "../layouts/Layout.astro"
 import { displayHost } from "../lib/link"
 
@@ -20,6 +20,15 @@ const iso = (d: Date) => d.toISOString().slice(0, 10)
 
 type Post = (typeof all)[number]
 const permalink = (p: Post) => `/blogs/${p.id.replace(/\.(md|mdx)$/, "")}/`
+
+// Pre-render the body of featured highlights so we can show the quote
+// itself on the homepage rather than just a title.
+const featuredRendered = await Promise.all(
+  featured.map(async (p) => ({
+    p,
+    Content: p.data.topic === "highlight" ? (await render(p)).Content : null,
+  }))
+)
 ---
 
 <Layout title="rob sharp">
@@ -36,17 +45,28 @@ const permalink = (p: Post) => `/blogs/${p.id.replace(/\.(md|mdx)$/, "")}/`
       <>
         <h2>featured</h2>
         <ul class="post-list">
-          {featured.map((p) => (
+          {featuredRendered.map(({ p, Content }) => (
             <li class="post-row is-feature">
               <span class="row-date">{iso(p.data.date)}</span>
               <span>
-                <a class="row-title" href={permalink(p)}>
-                  {p.data.title}
-                </a>
-                {p.data.subtitle && (
-                  <div class="post-subtitle" style="margin-left:0">
-                    {p.data.subtitle}
+                {Content ? (
+                  <div class="feature-quote">
+                    <Content />
+                    <a class="feature-quote-link" href={permalink(p)}>
+                      {p.data.link ? displayHost(p.data.link) : "read the highlight"} →
+                    </a>
                   </div>
+                ) : (
+                  <>
+                    <a class="row-title" href={permalink(p)}>
+                      {p.data.title}
+                    </a>
+                    {p.data.subtitle && (
+                      <div class="post-subtitle" style="margin-left:0">
+                        {p.data.subtitle}
+                      </div>
+                    )}
+                  </>
                 )}
               </span>
             </li>

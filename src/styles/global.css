@@ -311,6 +311,18 @@ td {
   padding-bottom: 0.5rem;
 }
 
+/* Featured highlight: show the quote itself on the homepage. */
+.feature-quote blockquote {
+  margin: 0.1rem 0 0.4rem;
+}
+.feature-quote-link {
+  color: var(--muted);
+  font-size: 0.85em;
+}
+.feature-quote-link:hover {
+  color: var(--link);
+}
+
 /* ---------- archive by year ---------- */
 
 .archive-year {
