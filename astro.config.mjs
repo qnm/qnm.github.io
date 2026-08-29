@@ -1,9 +1,9 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
-// GitHub Pages user site (qnm.github.io) → root domain, no base path.
+// Custom domain (qnm.lol) hosted on GitHub Pages → root domain, no base path.
 export default defineConfig({
-  site: 'https://qnm.github.io',
+  site: 'https://qnm.lol',
   trailingSlash: 'always',
   build: {
     format: 'directory',
