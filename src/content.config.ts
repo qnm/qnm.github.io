@@ -16,6 +16,7 @@ const blog = defineCollection({
     link: z.string().url().optional(),
     canonical: z.string().url().optional(),
     draft: z.boolean().optional(),
+    featured: z.boolean().optional(),
     tags: z.array(z.string()).optional(),
     // Nostr provenance for imported highlights (kind 9802).
     nostr: z.string().optional(), // nevent1… (nip-19 encoded event pointer)

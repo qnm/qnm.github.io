@@ -2,6 +2,7 @@
 title: 'Iovine: I’m very pro-A.I. in music creation. I don’t see the downside…'
 date: '2026-08-29'
 topic: highlight
+featured: true
 link: https://dfy0936hqry1l8.archive.md/
 nostr: >-
   nevent1qvzqqqpxfgpzpndsqcfrza38jsmnav9243pw3tn2x67gxgyaara37pz0uu5t4hx0qy28wumn8ghj7un9d3shjtnyv9kh2uewd9hszrthwden5te0dehhxtnvdakqqgxhccvktghstxnsf8f6sk3r4gh9se8jwwu8p0nnaggqwqxd50l2ms6jdhjk

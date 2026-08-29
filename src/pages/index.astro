@@ -9,8 +9,10 @@ const all = (await getCollection("blog", ({ data }) => !data.draft)).sort(
   (a, b) => b.data.date.getTime() - a.data.date.getTime()
 )
 
-const featured = all.filter((p) => p.data.topic === "feature")
-const nonFeatured = all.filter((p) => p.data.topic !== "feature")
+const isFeatured = (p: (typeof all)[number]) =>
+  p.data.topic === "feature" || p.data.featured === true
+const featured = all.filter(isFeatured)
+const nonFeatured = all.filter((p) => !isFeatured(p))
 const recent = nonFeatured.slice(0, RECENT_LIMIT)
 const remaining = nonFeatured.length - recent.length
 
