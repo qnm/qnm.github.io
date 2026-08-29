@@ -9,6 +9,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
+    "import:nostr": "node scripts/import-nostr-highlights.ts",
     "format": "prettier --write \"**/*.{js,ts,astro,md,mdx,json,css}\""
   },
   "dependencies": {
@@ -17,10 +18,13 @@
     "astro": "^7.2.0"
   },
   "devDependencies": {
+    "@types/ws": "^8.18.1",
     "he": "^1.2.0",
+    "nostr-tools": "^2.25.0",
     "prettier": "^3.3.3",
     "prettier-plugin-astro": "^0.14.1",
     "turndown": "^7.2.4",
-    "turndown-plugin-gfm": "^1.0.2"
+    "turndown-plugin-gfm": "^1.0.2",
+    "ws": "^8.21.3"
   }
 }

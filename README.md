@@ -41,6 +41,35 @@ image: ../../images/tokyo.jpg
 ---
 ```
 
+### Importing Nostr highlights
+
+`scripts/import-nostr-highlights.ts` pulls your [Nostr](https://nostr.com)
+content off the relays and writes each item as a post:
+
+- **Highlights** (NIP-84, kind `9802`) → `topic: highlight` posts that
+  quote the highlighted text.
+- **Web bookmarks** (NIP-B0, kind `39701`) → `topic: link` posts (the
+  same shape as the legacy linkblog) with a title derived from the
+  page's `title` tag or its URL.
+
+Each links back to the original source and, via `njump.me`, to the Nostr
+event (any post carrying a `nostrId`/`nostr` pointer renders a “shared/
+highlighted on nostr” link).
+
+```sh
+# npub or hex pubkey; --dry-run prints without writing
+npm run import:nostr -- npub1… --dry-run
+npm run import:nostr -- npub1… --since 2024-01-01
+NOSTR_PUBKEY=npub1… npm run import:nostr
+```
+
+Flags: `--relay <wss://…>` (repeatable), `--since <YYYY-MM-DD>`,
+`--timeout <sec>` (default 15), `--dry-run`. Runs directly on Node ≥ 22
+via built-in TypeScript type stripping — no build step. Uses
+[nostr-tools](https://github.com/nbd-wtf/nostr-tools) (fiatjaf's reference
+toolkit) for relay I/O and NIP-19 encoding. Re-running is safe: already
+imported events (tracked by `nostrId` in frontmatter) are skipped.
+
 ### Legacy archive
 
 Several hundred imported Jekyll (`.markdown`) and Posterous (`.html`) posts
